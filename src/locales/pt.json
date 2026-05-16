@@ -11,12 +11,12 @@
     }
   },
   "nav": {
-    "guides": "Guias",
-    "crafting": "Criação",
-    "items": "Itens",
-    "biomes": "Biomas",
-    "building": "Construção",
-    "support": "Suporte"
+    "guide": "Guide",
+    "release": "Release",
+    "characters": "Characters",
+    "cast": "Cast",
+    "trailer": "Trailer",
+    "lore": "Lore"
   },
   "common": {
     "home": "Início",

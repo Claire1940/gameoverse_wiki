@@ -11,12 +11,12 @@
     }
   },
   "nav": {
-    "guides": "Руководства",
-    "crafting": "Крафт",
-    "items": "Предметы",
-    "biomes": "Биомы",
-    "building": "Строительство",
-    "support": "Поддержка"
+    "guide": "Guide",
+    "release": "Release",
+    "characters": "Characters",
+    "cast": "Cast",
+    "trailer": "Trailer",
+    "lore": "Lore"
   },
   "common": {
     "home": "Главная",

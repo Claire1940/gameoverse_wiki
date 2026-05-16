@@ -10,7 +10,14 @@
       "twitterDescription": "GameOverse Wiki covers characters, episodes, cast, lore, villains, worlds, and official links for the GLITCH animated series universe."
     }
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "release": "Release",
+    "characters": "Characters",
+    "cast": "Cast",
+    "trailer": "Trailer",
+    "lore": "Lore"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -432,125 +439,125 @@
     "copyright": "© 2026 GameOverse Wiki. Unofficial fan site, not affiliated with GLITCH Productions."
   },
   "pages": {
-    "guides": {
-      "title": "GameOverse Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "GameOverse Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete GameOverse guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "guide": {
+      "title": "GameOverse Guide",
+      "description": "Find watch platforms, age rating context, and official links so you can start GameOverse with the right expectations.",
+      "metaTitle": "GameOverse Guide - Watch Platforms, Rating & Official Links",
+      "metaDescription": "Use this GameOverse guide hub to check where to watch, age rating context, streaming availability, and official pages.",
+      "categoryLabel": "START HERE",
+      "whatIs": "What is the Guide category?",
+      "whatIsDescription": "The Guide category collects practical entry-point articles such as where to watch, official pages, streaming availability, and baseline viewing context.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Start From Official Sources",
+        "step1Description": "Use verified pages and channels to avoid reuploads or outdated summaries.",
+        "step2Title": "Choose the Best Viewing Option",
+        "step2Description": "Compare platform availability and format details before you watch.",
+        "step3Title": "Get Context Fast",
+        "step3Description": "Understand rating and format expectations so each episode is easier to follow."
       },
       "featured": "Featured & Essential",
-      "all": "All Guides"
+      "all": "All Guide Articles"
     },
-    "crafting": {
-      "title": "GameOverse Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "GameOverse Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master GameOverse Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "release": {
+      "title": "GameOverse Release",
+      "description": "Track pilot launch timing, episode windows, and production-status updates in one place.",
+      "metaTitle": "GameOverse Release - Pilot Date, Episode Windows & Status",
+      "metaDescription": "Follow GameOverse release coverage including pilot launch date, next-episode timing signals, and official status updates.",
+      "categoryLabel": "RELEASE TRACKER",
+      "whatIs": "What is the Release category?",
+      "whatIsDescription": "The Release category focuses on dates, rollout windows, and announcement milestones so you can monitor what is confirmed and what is still pending.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Track Confirmed Dates",
+        "step1Description": "See the pilot release date and any officially announced schedule updates.",
+        "step2Title": "Monitor Episode Progress",
+        "step2Description": "Follow how production and release signals evolve between episodes.",
+        "step3Title": "Avoid Rumor Cycles",
+        "step3Description": "Use a single timeline to distinguish official updates from speculation."
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Release Articles"
     },
-    "items": {
-      "title": "GameOverse Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "GameOverse Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for GameOverse including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "characters": {
+      "title": "GameOverse Characters",
+      "description": "Learn the main cast of in-story characters, their roles, relationships, and key pilot moments.",
+      "metaTitle": "GameOverse Characters - Main Roles, Factions & Profiles",
+      "metaDescription": "Explore GameOverse character profiles with role summaries, faction alignment, and pilot-era story context.",
+      "categoryLabel": "CHARACTER FILES",
+      "whatIs": "What is the Characters category?",
+      "whatIsDescription": "The Characters category covers in-universe figures, role definitions, and faction placement across pilot and follow-up story discussions.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Identify Key Roles",
+        "step1Description": "Quickly map protagonists, allies, and opposition members.",
+        "step2Title": "Follow Relationship Arcs",
+        "step2Description": "Understand why character pairings and rivalries matter to the plot.",
+        "step3Title": "Reference During Episodes",
+        "step3Description": "Use concise profiles while watching to keep names and motives clear."
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All Character Articles"
     },
-    "biomes": {
-      "title": "GameOverse Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "GameOverse Biomes - World Regions & Exploration",
-      "metaDescription": "Explore GameOverse biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "cast": {
+      "title": "GameOverse Cast",
+      "description": "Browse voice-actor and creator coverage tied to major characters and production credits.",
+      "metaTitle": "GameOverse Cast - Voice Actors, Credits & Production Team",
+      "metaDescription": "Review GameOverse cast information, including voice actors, creator roles, and production-credit context.",
+      "categoryLabel": "CAST & CREDITS",
+      "whatIs": "What is the Cast category?",
+      "whatIsDescription": "The Cast category tracks voice actors, creators, and credited contributors connected to characters and series production.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Match Voices to Characters",
+        "step1Description": "Connect notable performances to the roles they portray.",
+        "step2Title": "Understand Creative Leadership",
+        "step2Description": "See which creators shape direction, writing, and show identity.",
+        "step3Title": "Keep Credit Data Organized",
+        "step3Description": "Use structured entries to find cast details quickly."
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Cast Articles"
     },
-    "building": {
-      "title": "GameOverse Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "GameOverse Building - Qualia & Base Construction",
-      "metaDescription": "Master GameOverse building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "trailer": {
+      "title": "GameOverse Trailer",
+      "description": "Break down teaser, pilot trailer, and final trailer moments to understand setup, tone, and stakes.",
+      "metaTitle": "GameOverse Trailer - Teaser & Pilot Breakdown Hub",
+      "metaDescription": "Read GameOverse trailer analysis covering teaser scenes, pilot setup, and key reveals that shape the story direction.",
+      "categoryLabel": "TRAILER ANALYSIS",
+      "whatIs": "What is the Trailer category?",
+      "whatIsDescription": "The Trailer category compiles scene-by-scene analysis for promotional videos and preview assets released around the pilot.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Catch Hidden Setup",
+        "step1Description": "Spot visual clues that foreshadow character goals and conflicts.",
+        "step2Title": "Compare Versions",
+        "step2Description": "Track differences between teaser, pilot trailer, and final cut.",
+        "step3Title": "Prepare for New Episodes",
+        "step3Description": "Use trailer context to interpret future reveals with less confusion."
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Trailer Articles"
     },
-    "support": {
-      "title": "GameOverse Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "GameOverse Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for GameOverse including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "lore": {
+      "title": "GameOverse Lore",
+      "description": "Explore world rules, ending implications, reboot links, and recurring theories across the GameOverse universe.",
+      "metaTitle": "GameOverse Lore - Story Rules, Ending Notes & Timeline Context",
+      "metaDescription": "Dive into GameOverse lore coverage including core world rules, pilot ending implications, timeline links, and common theories.",
+      "categoryLabel": "LORE & THEORY",
+      "whatIs": "What is the Lore category?",
+      "whatIsDescription": "The Lore category explains setting rules, timeline anchors, ending interpretation, and long-form theory discussions.",
+      "why": "Why read this?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Understand Core Rules",
+        "step1Description": "Learn how victory conditions and collapse mechanics shape every world.",
+        "step2Title": "Interpret Ending Scenes",
+        "step2Description": "Use structured notes to decode pilot outcomes and implications.",
+        "step3Title": "Connect Timeline Threads",
+        "step3Description": "Link reboot-era events with older concept references and fan theories."
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Lore Articles"
     }
   }
 }
