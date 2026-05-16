@@ -279,39 +279,174 @@ export default function HomePageClient({
             </p>
           </div>
           <div className="grid grid-cols-2 gap-3 md:grid-cols-3 md:gap-4 lg:grid-cols-4">
-            {t.tools.cards.map((card: any, index: number) => {
-              const sectionIds = [
-                "release-date-watch-guide",
-                "episodes-guide",
-                "characters-voice-cast",
-                "story-premise",
-                "ending-lore",
-                "trailer-breakdown",
-                "original-reboot-guide",
-                "season-status",
-              ];
-              const sectionId = sectionIds[index];
-              return (
-                <button
-                  key={`after-latest-${index}`}
-                  onClick={() => scrollToSection(sectionId)}
-                  className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
-                >
-                  <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
-                    <DynamicIcon
-                      name={card.icon}
-                      className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
-                    />
-                  </div>
-                  <h3 className="mb-1.5 text-sm md:text-base font-semibold">
-                    {card.title}
-                  </h3>
-                  <p className="text-sm text-muted-foreground">
-                    {card.description}
-                  </p>
-                </button>
-              );
-            })}
+            <a
+              href="#release-date-watch-guide"
+              onClick={(e) => {
+                e.preventDefault();
+                scrollToSection("release-date-watch-guide");
+              }}
+              className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+            >
+              <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                <DynamicIcon
+                  name={t.tools.cards[0].icon}
+                  className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
+                />
+              </div>
+              <h3 className="mb-1.5 text-sm md:text-base font-semibold">
+                {t.tools.cards[0].title}
+              </h3>
+              <p className="text-sm text-muted-foreground">
+                {t.tools.cards[0].description}
+              </p>
+            </a>
+            <a
+              href="#episodes-guide"
+              onClick={(e) => {
+                e.preventDefault();
+                scrollToSection("episodes-guide");
+              }}
+              className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+            >
+              <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                <DynamicIcon
+                  name={t.tools.cards[1].icon}
+                  className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
+                />
+              </div>
+              <h3 className="mb-1.5 text-sm md:text-base font-semibold">
+                {t.tools.cards[1].title}
+              </h3>
+              <p className="text-sm text-muted-foreground">
+                {t.tools.cards[1].description}
+              </p>
+            </a>
+            <a
+              href="#characters-voice-cast"
+              onClick={(e) => {
+                e.preventDefault();
+                scrollToSection("characters-voice-cast");
+              }}
+              className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+            >
+              <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                <DynamicIcon
+                  name={t.tools.cards[2].icon}
+                  className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
+                />
+              </div>
+              <h3 className="mb-1.5 text-sm md:text-base font-semibold">
+                {t.tools.cards[2].title}
+              </h3>
+              <p className="text-sm text-muted-foreground">
+                {t.tools.cards[2].description}
+              </p>
+            </a>
+            <a
+              href="#story-premise"
+              onClick={(e) => {
+                e.preventDefault();
+                scrollToSection("story-premise");
+              }}
+              className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+            >
+              <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                <DynamicIcon
+                  name={t.tools.cards[3].icon}
+                  className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
+                />
+              </div>
+              <h3 className="mb-1.5 text-sm md:text-base font-semibold">
+                {t.tools.cards[3].title}
+              </h3>
+              <p className="text-sm text-muted-foreground">
+                {t.tools.cards[3].description}
+              </p>
+            </a>
+            <a
+              href="#ending-lore"
+              onClick={(e) => {
+                e.preventDefault();
+                scrollToSection("ending-lore");
+              }}
+              className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+            >
+              <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                <DynamicIcon
+                  name={t.tools.cards[4].icon}
+                  className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
+                />
+              </div>
+              <h3 className="mb-1.5 text-sm md:text-base font-semibold">
+                {t.tools.cards[4].title}
+              </h3>
+              <p className="text-sm text-muted-foreground">
+                {t.tools.cards[4].description}
+              </p>
+            </a>
+            <a
+              href="#trailer-breakdown"
+              onClick={(e) => {
+                e.preventDefault();
+                scrollToSection("trailer-breakdown");
+              }}
+              className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+            >
+              <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                <DynamicIcon
+                  name={t.tools.cards[5].icon}
+                  className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
+                />
+              </div>
+              <h3 className="mb-1.5 text-sm md:text-base font-semibold">
+                {t.tools.cards[5].title}
+              </h3>
+              <p className="text-sm text-muted-foreground">
+                {t.tools.cards[5].description}
+              </p>
+            </a>
+            <a
+              href="#original-reboot-guide"
+              onClick={(e) => {
+                e.preventDefault();
+                scrollToSection("original-reboot-guide");
+              }}
+              className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+            >
+              <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                <DynamicIcon
+                  name={t.tools.cards[6].icon}
+                  className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
+                />
+              </div>
+              <h3 className="mb-1.5 text-sm md:text-base font-semibold">
+                {t.tools.cards[6].title}
+              </h3>
+              <p className="text-sm text-muted-foreground">
+                {t.tools.cards[6].description}
+              </p>
+            </a>
+            <a
+              href="#season-status"
+              onClick={(e) => {
+                e.preventDefault();
+                scrollToSection("season-status");
+              }}
+              className="scroll-reveal group rounded-xl border border-border p-4 md:p-6 bg-card hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 cursor-pointer text-left hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+            >
+              <div className="mb-3 h-10 w-10 rounded-lg md:mb-4 md:h-12 md:w-12 bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                <DynamicIcon
+                  name={t.tools.cards[7].icon}
+                  className="h-5 w-5 md:h-6 md:w-6 text-[hsl(var(--nav-theme-light))]"
+                />
+              </div>
+              <h3 className="mb-1.5 text-sm md:text-base font-semibold">
+                {t.tools.cards[7].title}
+              </h3>
+              <p className="text-sm text-muted-foreground">
+                {t.tools.cards[7].description}
+              </p>
+            </a>
           </div>
         </div>
       </section>
@@ -603,41 +738,49 @@ export default function HomePageClient({
               {t.modules.gameOverseEndingAndLoreExplained.intro}
             </p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-            {t.modules.gameOverseEndingAndLoreExplained.cards.map(
-              (card: any, index: number) => (
+          <div className="scroll-reveal space-y-4">
+            {t.modules.gameOverseEndingAndLoreExplained.items.map(
+              (item: any, index: number) => (
                 <div
                   key={index}
-                  className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+                  className="rounded-xl border border-border bg-white/5 overflow-hidden"
                 >
-                  <h3 className="font-bold text-lg mb-2 text-[hsl(var(--nav-theme-light))]">
-                    <LinkedTitle
-                      linkData={
-                        moduleLinkMap[
-                          `gameOverseEndingAndLoreExplained::cards::${index}`
-                        ]
-                      }
-                      locale={locale}
-                    >
-                      {card.name}
-                    </LinkedTitle>
-                  </h3>
-                  <p className="text-muted-foreground text-sm">
-                    {card.description}
-                  </p>
-                </div>
-              ),
-            )}
-          </div>
-          <div className="scroll-reveal grid grid-cols-2 md:grid-cols-4 gap-4">
-            {t.modules.gameOverseEndingAndLoreExplained.highlights.map(
-              (h: string, i: number) => (
-                <div
-                  key={i}
-                  className="p-4 bg-white/5 border border-border rounded-xl text-center hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
-                >
-                  <Home className="w-6 h-6 text-[hsl(var(--nav-theme-light))] mx-auto mb-2" />
-                  <p className="text-sm">{h}</p>
+                  <button
+                    onClick={() =>
+                      setDeckExpanded(deckExpanded === index ? null : index)
+                    }
+                    className="w-full p-5 md:p-6 text-left hover:bg-white/5 transition-colors"
+                  >
+                    <div className="flex items-center justify-between gap-3">
+                      <div>
+                        <span className="inline-flex mb-2 text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+                          {item.label}
+                        </span>
+                        <h3 className="font-bold text-base md:text-lg text-[hsl(var(--nav-theme-light))]">
+                          <LinkedTitle
+                            linkData={
+                              moduleLinkMap[
+                                `gameOverseEndingAndLoreExplained::items::${index}`
+                              ]
+                            }
+                            locale={locale}
+                          >
+                            {item.title}
+                          </LinkedTitle>
+                        </h3>
+                      </div>
+                      <ChevronDown
+                        className={`h-5 w-5 text-[hsl(var(--nav-theme-light))] transition-transform ${deckExpanded === index ? "rotate-180" : ""}`}
+                      />
+                    </div>
+                  </button>
+                  {deckExpanded === index && (
+                    <div className="px-5 md:px-6 pb-5 md:pb-6">
+                      <p className="text-sm text-muted-foreground leading-7">
+                        {item.content}
+                      </p>
+                    </div>
+                  )}
                 </div>
               ),
             )}
@@ -661,34 +804,37 @@ export default function HomePageClient({
               {t.modules.gameOverseTrailerBreakdown.intro}
             </p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
-            {t.modules.gameOverseTrailerBreakdown.regions.map(
-              (region: any, index: number) => (
+          <div className="scroll-reveal space-y-4">
+            {t.modules.gameOverseTrailerBreakdown.items.map(
+              (item: any, index: number) => (
                 <div
                   key={index}
-                  className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+                  className="p-5 md:p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
                 >
-                  <div className="flex items-center gap-3 mb-3">
-                    <Eye className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
-                    <h3 className="font-bold">
-                      <LinkedTitle
-                        linkData={
-                          moduleLinkMap[
-                            `gameOverseTrailerBreakdown::regions::${index}`
-                          ]
-                        }
-                        locale={locale}
-                      >
-                        {region.name}
-                      </LinkedTitle>
-                    </h3>
-                    <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
-                      {region.type}
-                    </span>
+                  <div className="flex items-start gap-3 md:gap-4">
+                    <div className="flex h-10 w-10 md:h-12 md:w-12 flex-shrink-0 items-center justify-center rounded-full border-2 border-[hsl(var(--nav-theme)/0.5)] bg-[hsl(var(--nav-theme)/0.2)]">
+                      <span className="text-base md:text-lg font-bold text-[hsl(var(--nav-theme-light))]">
+                        {item.step}
+                      </span>
+                    </div>
+                    <div>
+                      <h3 className="font-bold mb-2">
+                        <LinkedTitle
+                          linkData={
+                            moduleLinkMap[
+                              `gameOverseTrailerBreakdown::items::${index}`
+                            ]
+                          }
+                          locale={locale}
+                        >
+                          {item.title}
+                        </LinkedTitle>
+                      </h3>
+                      <p className="text-muted-foreground text-sm">
+                        {item.description}
+                      </p>
+                    </div>
                   </div>
-                  <p className="text-muted-foreground text-sm">
-                    {region.description}
-                  </p>
                 </div>
               ),
             )}
@@ -712,35 +858,45 @@ export default function HomePageClient({
               {t.modules.gameOverseOriginalSeriesAndRebootGuide.intro}
             </p>
           </div>
-          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-            {t.modules.gameOverseOriginalSeriesAndRebootGuide.creatures.map(
-              (c: any, index: number) => (
+          <div className="scroll-reveal space-y-4">
+            {t.modules.gameOverseOriginalSeriesAndRebootGuide.items.map(
+              (item: any, index: number) => (
                 <div
                   key={index}
-                  className="p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
+                  className="p-5 md:p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors"
                 >
-                  <div className="mb-3">
-                    <span
-                      className={`text-xs px-2 py-1 rounded-full border ${["Hostile Enemy", "Major Threat", "Elite Threat"].includes(c.role) ? "bg-[hsl(var(--nav-theme)/0.15)] border-[hsl(var(--nav-theme)/0.35)] text-[hsl(var(--nav-theme-light))]" : "bg-[hsl(var(--nav-theme)/0.1)] border-[hsl(var(--nav-theme)/0.3)]"}`}
-                    >
-                      {c.role}
+                  <div className="mb-3 md:mb-4">
+                    <span className="inline-flex text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
+                      {item.topic}
                     </span>
                   </div>
-                  <h3 className="font-bold mb-2">
-                    <LinkedTitle
-                      linkData={
-                        moduleLinkMap[
-                          `gameOverseOriginalSeriesAndRebootGuide::creatures::${index}`
-                        ]
-                      }
-                      locale={locale}
-                    >
-                      {c.name}
-                    </LinkedTitle>
-                  </h3>
-                  <p className="text-muted-foreground text-sm">
-                    {c.description}
-                  </p>
+                  <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div className="rounded-lg border border-border bg-white/[0.03] p-4">
+                      <p className="text-xs uppercase tracking-wide text-[hsl(var(--nav-theme-light))] mb-2">
+                        Original Series
+                      </p>
+                      <LinkedTitle
+                        linkData={
+                          moduleLinkMap[
+                            `gameOverseOriginalSeriesAndRebootGuide::items::${index}::original`
+                          ]
+                        }
+                        locale={locale}
+                      >
+                        <p className="text-sm text-muted-foreground">
+                          {item.original_series}
+                        </p>
+                      </LinkedTitle>
+                    </div>
+                    <div className="rounded-lg border border-border bg-white/[0.03] p-4">
+                      <p className="text-xs uppercase tracking-wide text-[hsl(var(--nav-theme-light))] mb-2">
+                        Reboot 2026
+                      </p>
+                      <p className="text-sm text-muted-foreground">
+                        {item.reboot_2026}
+                      </p>
+                    </div>
+                  </div>
                 </div>
               ),
             )}
@@ -774,7 +930,7 @@ export default function HomePageClient({
                   <div className="flex items-center gap-2 mb-3">
                     <ArrowRight className="w-5 h-5 text-[hsl(var(--nav-theme-light))]" />
                     <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)]">
-                      {item.type}
+                      {item.status}
                     </span>
                   </div>
                   <h3 className="font-bold mb-2">
@@ -786,26 +942,16 @@ export default function HomePageClient({
                       }
                       locale={locale}
                     >
-                      {item.name}
+                      {item.title}
                     </LinkedTitle>
                   </h3>
+                  <p className="text-xs mb-2 text-[hsl(var(--nav-theme-light))]">
+                    {item.label}
+                  </p>
                   <p className="text-muted-foreground text-sm">
-                    {item.description}
+                    {item.details}
                   </p>
                 </div>
-              ),
-            )}
-          </div>
-          <div className="scroll-reveal flex flex-wrap gap-3 justify-center">
-            {t.modules.gameOverseSeasonOneAndEpisodeTwoStatus.unlockMilestones.map(
-              (m: string, i: number) => (
-                <span
-                  key={i}
-                  className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-sm"
-                >
-                  <Check className="w-4 h-4 text-[hsl(var(--nav-theme-light))]" />
-                  {m}
-                </span>
               ),
             )}
           </div>

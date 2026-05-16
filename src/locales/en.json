@@ -231,118 +231,150 @@
     },
     "gameOverseEndingAndLoreExplained": {
       "title": "GameOverse Ending and Lore Explained",
-      "displayType": "cards",
-      "intro": "The pilot ending sets up long-term stakes around world rules, extraction, and pursuit.",
-      "cards": [
+      "displayType": "accordion",
+      "intro": "GameOverse is set in a multiverse of game worlds where finishing the game can destroy the world itself. This guide starts spoiler-safe, then moves into pilot-ending details.",
+      "items": [
         {
-          "name": "Ending Setup",
-          "description": "The close confirms that collapse events are systemic, not isolated accidents."
+          "label": "Spoiler-safe setup",
+          "title": "What is the main rule of GameOverse?",
+          "content": "In GameOverse, a game world can be destroyed when its hero completes the game. That is why Kit’s mission is unusual: she tries to stop heroes from reaching the final win condition, even when that means helping villains."
         },
         {
-          "name": "Rule Implications",
-          "description": "Every hero path can become a countdown, forcing counterintuitive alliances."
+          "label": "Spoiler-safe character role",
+          "title": "Why does Kit help villains in GameOverse?",
+          "content": "Kit is not helping villains because they are morally right. She does it because when the villain loses, the hero usually wins, and a hero win can trigger destruction of that entire world."
         },
         {
-          "name": "Faction Escalation",
-          "description": "Syntax pressure increases after pilot events, raising future world risk."
+          "label": "Spoiler section",
+          "title": "What happens at the end of the GameOverse pilot?",
+          "content": "In the pilot, Flappers defeats Snappers, which causes the Flappers the Super Dolphin world to collapse. Kit, Kaboodle, Gobbles, and Flappers escape, while Snappers is taken by the Syntax and killed."
         },
         {
-          "name": "Forward Hooks",
-          "description": "Multiple unresolved threads point directly to Episode 2 and Season 1 arcs."
+          "label": "Spoiler section",
+          "title": "What does Warrick’s final scene mean in GameOverse?",
+          "content": "Warrick, the leader of the Syntax, offers Malice a chance at revenge. This frames Malice as a direct personal threat to Kit because Malice is tied to Kit’s destroyed home world."
+        },
+        {
+          "label": "Hidden detail",
+          "title": "Why is Gobbles important in GameOverse?",
+          "content": "Gobbles connects the 2026 reboot to the older GameOverse concept. The trailer and pilot use Gobbles and the Learnosaurs as an early example of how a simple world can collapse once the win condition is completed."
         }
-      ],
-      "highlights": [
-        "Spoiler-light summary",
-        "Rule-level interpretation",
-        "Faction consequence map",
-        "Episode 2 hooks"
       ]
     },
     "gameOverseTrailerBreakdown": {
       "title": "GameOverse Trailer Breakdown",
-      "displayType": "regionCards",
-      "intro": "The trailer establishes tone, character chemistry, and the collapse-driven mission frame.",
-      "regions": [
+      "displayType": "timeline",
+      "intro": "The GameOverse trailer introduces the main hook: worlds collapse when heroes win, and saving worlds means breaking normal game logic.",
+      "items": [
         {
-          "name": "Opening Signals",
-          "type": "Setup",
-          "description": "Early shots establish instability and fast transitions between game worlds."
+          "step": 1,
+          "title": "Gobbles and the Learnosaurs opens the trailer",
+          "description": "The trailer begins inside Gobbles and the Learnosaurs, where normal game progression is already close to a dangerous win condition."
         },
         {
-          "name": "Team Dynamics",
-          "type": "Character Focus",
-          "description": "Kit, Kaboodle, and Gobbles are framed as the emotional and tactical core."
+          "step": 2,
+          "title": "Kit and Kaboodle enter the scene",
+          "description": "Kit and Kaboodle intervene because they understand that completing the objective can destroy the world."
         },
         {
-          "name": "Threat Framing",
-          "type": "Conflict",
-          "description": "Syntax-side pressure appears through pursuit, manipulation, and timing control."
+          "step": 3,
+          "title": "The first world collapse is shown",
+          "description": "After the objective is completed, the world starts collapsing. This sequence teaches the core rule without extra exposition."
         },
         {
-          "name": "Mission Scale",
-          "type": "Scope",
-          "description": "The trailer positions collapse prevention as a multi-world ongoing campaign."
+          "step": 4,
+          "title": "The villain-helping twist is revealed",
+          "description": "The premise shows that saving worlds can require helping villains stop heroes from reaching the final win state."
+        },
+        {
+          "step": 5,
+          "title": "Different game worlds are teased",
+          "description": "GameOverse is framed as a multi-world format, each setting with different heroes, villains, and collapse conditions."
+        },
+        {
+          "step": 6,
+          "title": "The Syntax becomes the long-term threat",
+          "description": "Trailer and pilot setup position the Syntax as the group pushing worlds toward destruction at scale."
         }
       ]
     },
     "gameOverseOriginalSeriesAndRebootGuide": {
       "title": "GameOverse Original Series and Reboot Guide",
-      "displayType": "creatureCards",
-      "intro": "GameOverse combines 2009-era origins with a 2026 GLITCH reboot production layer.",
-      "creatures": [
+      "displayType": "comparisonTable",
+      "intro": "GameOverse began as an older web concept by Ross O’Donovan and returned in 2026 as a larger GLITCH-produced reboot.",
+      "items": [
         {
-          "name": "2009 Web Series Roots",
-          "role": "Origin",
-          "description": "The original concept lineage traces back to earlier RubberRoss web content."
+          "topic": "Origin",
+          "original_series": "A short web animation concept created by Ross O’Donovan, with older material preserved in the old-series playlist.",
+          "reboot_2026": "A GLITCH-produced animated reboot created and directed by Ross O’Donovan."
         },
         {
-          "name": "2026 GLITCH Reboot",
-          "role": "Modern Release",
-          "description": "The new production reframes scope, cast, and serialized storytelling pacing."
+          "topic": "Release format",
+          "original_series": "A small set of short web episodes.",
+          "reboot_2026": "A full pilot released on the GLITCH YouTube channel on May 15, 2026."
         },
         {
-          "name": "What Returned",
-          "role": "Continuity",
-          "description": "Core ideas and naming DNA remain while visual execution is refreshed."
+          "topic": "Main creative team",
+          "original_series": "Ross O’Donovan led the original concept.",
+          "reboot_2026": "Ross O’Donovan created and directed the reboot, co-written with Arin Hanson."
         },
         {
-          "name": "What Changed",
-          "role": "Rebuild",
-          "description": "Narrative delivery and platform rollout reflect a modern studio pipeline."
+          "topic": "Story focus",
+          "original_series": "Focused on early GameOverse concepts and legacy character framing.",
+          "reboot_2026": "Centers on Kit, Kaboodle, Gobbles, and the rule that hero wins can destroy worlds."
+        },
+        {
+          "topic": "Returning connection",
+          "original_series": "Gobbles and the Learnosaurs is tied to older GameOverse material.",
+          "reboot_2026": "Gobbles returns as a bridge between the old concept and the new reboot."
+        },
+        {
+          "topic": "Production scale",
+          "original_series": "An early independent web animation project.",
+          "reboot_2026": "A larger 2D animated studio production from GLITCH."
+        },
+        {
+          "topic": "Current status",
+          "original_series": "Viewed as archive source material.",
+          "reboot_2026": "One pilot released; next episode remains TBA."
         }
       ]
     },
     "gameOverseSeasonOneAndEpisodeTwoStatus": {
       "title": "GameOverse Season 1 and Episode 2 Status",
-      "displayType": "itemCards",
-      "intro": "This status board tracks what is confirmed now and what remains pending.",
+      "displayType": "statusCards",
+      "intro": "GameOverse launched with its pilot on May 15, 2026. This section tracks what is confirmed and what remains pending for Episode 2 and Season 1.",
       "items": [
         {
-          "name": "Pilot",
-          "type": "Confirmed",
-          "description": "Released publicly on May 15, 2026."
+          "label": "Episode 1",
+          "status": "Released",
+          "title": "GameOverse: Pilot",
+          "details": "The pilot released on May 15, 2026 on the GLITCH YouTube channel and introduces Kit, Kaboodle, Gobbles, Flappers, Snappers, and the Syntax."
         },
         {
-          "name": "Episode 2 Title",
-          "type": "Pending",
-          "description": "No official title announced yet."
+          "label": "Episode 2",
+          "status": "TBA",
+          "title": "Next Episode",
+          "details": "The next episode slot is still TBA with no public title or date in official materials."
         },
         {
-          "name": "Season 1 Count",
-          "type": "Pending",
-          "description": "Total episode count is not formally confirmed."
+          "label": "Season 1",
+          "status": "Pilot-first rollout",
+          "title": "Full Season Status",
+          "details": "Public rollout currently centers on the released pilot, with no dated full-season schedule posted."
         },
         {
-          "name": "Primary Update Channels",
-          "type": "Confirmed",
-          "description": "Official GLITCH pages and GameOverse social announcements."
+          "label": "Where to watch",
+          "status": "Official free viewing",
+          "title": "GLITCH YouTube",
+          "details": "The safest watch route is the official GLITCH YouTube upload and the official GameOverse page."
+        },
+        {
+          "label": "Where updates appear",
+          "status": "Track official channels",
+          "title": "GLITCH, GameOverse, and RubberRoss",
+          "details": "Future updates are most likely to appear through the GLITCH site, GLITCH YouTube, GameOverse X account, and Ross O’Donovan channels."
         }
-      ],
-      "unlockMilestones": [
-        "Pilot live",
-        "Episode 2 pending",
-        "Season scope pending",
-        "Official channels tracked"
       ]
     }
   },
@@ -352,28 +384,28 @@
     "subtitle": "Everything you need to know about GameOverse",
     "questions": [
       {
-        "question": "GameOverse: Is GameOverse a singleplayer game?",
-        "answer": "Yes. GameOverse is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "GameOverse: Is GameOverse a game or an animated series?",
+        "answer": "GameOverse is an animated series produced by GLITCH, built around collapsing game worlds and cross-world missions."
       },
       {
-        "question": "GameOverse: What is the Apotheosis system in GameOverse?",
-        "answer": "Apotheosis is GameOverse' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "GameOverse: Where can I watch the GameOverse pilot?",
+        "answer": "The official watch entry is the GLITCH YouTube channel and the official GameOverse page on glitchprod.com."
       },
       {
-        "question": "GameOverse: Where can I play GameOverse?",
-        "answer": "GameOverse is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "GameOverse: Why does Kit help villains in GameOverse?",
+        "answer": "In GameOverse, a hero win can destroy a world. Kit intervenes to stop final win conditions, even if that means supporting villains in specific moments."
       },
       {
-        "question": "GameOverse: How much does GameOverse cost?",
-        "answer": "GameOverse costs $9.99 on Steam."
+        "question": "GameOverse: What is the current status of GameOverse Episode 2?",
+        "answer": "GameOverse Episode 2 is currently TBA, with no public title or release date announced in official channels."
       },
       {
-        "question": "GameOverse: Does GameOverse support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "GameOverse: Is GameOverse Season 1 fully scheduled?",
+        "answer": "GameOverse currently has a pilot-first rollout. A dated full-season schedule has not been published yet."
       },
       {
-        "question": "GameOverse: Will GameOverse receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "GameOverse: Which characters are central to the GameOverse pilot?",
+        "answer": "GameOverse pilot coverage focuses on Kit, Kaboodle, Gobbles, Flappers, Snappers, Warrick, and other Syntax-linked characters."
       }
     ]
   },
