@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "GameOverse Wiki - Characters, Episodes & Lore",
+      "description": "GameOverse Wiki covers characters, episodes, cast, lore, villains, worlds, and official links for the GLITCH animated series universe.",
+      "keywords": "GameOverse, GameOverse wiki, GLITCH, characters, episodes, lore, cast",
+      "ogTitle": "GameOverse Wiki - Characters, Episodes & Lore",
+      "ogDescription": "GameOverse Wiki covers characters, episodes, cast, lore, villains, worlds, and official links for the GLITCH animated series universe.",
+      "twitterTitle": "GameOverse Wiki - Characters, Episodes & Lore",
+      "twitterDescription": "GameOverse Wiki covers characters, episodes, cast, lore, villains, worlds, and official links for the GLITCH animated series universe."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Indie Animated Game-World Adventure",
+    "title": "GameOverse Wiki",
+    "description": "GameOverse is a GLITCH animated series about collapsing video game worlds, strange heroes, dangerous villains, and the rules behind saving every world.",
+    "getFreeCodesCTA": "Explore Characters",
+    "playOnSteamCTA": "Watch Pilot on YouTube",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "2.9M+",
+        "label": "Pilot Views"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "1",
+        "label": "Pilot Episode"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "17",
+        "label": "Official Merch"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "May 15, 2026",
+        "label": "Pilot Release"
       }
     }
   },
@@ -785,27 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Explore GameOverse?",
+    "description": "Follow official GameOverse channels for pilot news, episode updates, and community events.",
+    "joinCommunity": "Join Glitch Inn Discord",
+    "joinGame": "Watch Official Trailer"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
-    "resources": "Resources",
+    "title": "GameOverse Wiki",
+    "description": "Your fan resource hub for GameOverse characters, episodes, cast, lore, villains, and world guides.",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "discord": "Glitch Inn Discord",
+    "twitter": "GameOverse on X",
+    "steamCommunity": "Official Site",
+    "steamStore": "GLITCH YouTube",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
-    "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
-    "disclaimer": "Unofficial fan-made resource website."
+    "copyrightNotice": "Copyright Notice",
+    "disclaimer": "Unofficial fan-made resource. Not affiliated with GLITCH Productions.",
+    "copyright": "© 2026 GameOverse Wiki. Unofficial fan site, not affiliated with GLITCH Productions."
   },
   "pages": {
     "guides": {
