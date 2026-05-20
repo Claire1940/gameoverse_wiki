@@ -1,0 +1,186 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Regras do Gameoverse: Entendendo a Mecânica Principal e a Jogabilidade",
+  description: "Mergulhe nas regras fundamentais do Gameoverse que governam os mundos de jogo, heróis, vilões e os sistemas críticos de Estática e Travas de Segurança.",
+  category: "Guia",
+  image: "https://placehold.co/800x400/8B5CF6/fff?text=Gameoverse+Rules",
+  date: "2026-05-20",
+  author: "Equipe Wiki"
+}
+
+<Callout type="info" title="Guia Rápido">
+- As **regras do Gameoverse** ditam que um herói vencendo seu jogo faz com que seu mundo **exploda**, transformando-se em um recurso chamado Float.
+- Agentes da **Farcade**, como Kit, visam salvar mundos ajudando os vilões a vencer, impedindo que os heróis completem seus jogos.
+- Agentes da **Syntax**, por outro lado, ajudam os heróis a vencer, destruindo mundos para colher Float para seus próprios objetivos.
+- A **Estática** é um mecanismo de defesa crítico que congela os mundos de jogo se seus habitantes forem informados sobre a verdadeira natureza do Gameoverse.
+- As **Travas de Segurança** impedem que personagens externos prejudiquem diretamente personagens nativos do jogo dentro de seus mundos.
+</Callout>
+
+<Section icon={Map} title="As Regras Centrais do Gameoverse Explicadas">
+O **Gameoverse** é um universo complexo onde cada jogo existe como um planeta. Entender suas regras fundamentais é crucial para qualquer um que navegue por seus sistemas intrincados, seja você um agente da Farcade tentando salvar mundos ou um operativo da Syntax buscando colher Float. Essas regras ditam o destino de mundos de jogo inteiros e seus habitantes.
+
+**Destaques do Vídeo:**
+- Apresenta o conceito central: herói vence, mundo explode.
+- Mostra o encontro inicial de Kit com a natureza destrutiva do Gameoverse.
+- Explica os papéis da Farcade (salvar mundos) e da Syntax (destruir mundos).
+
+<YouTubeEmbed videoId="1jNk5tmjhpc" title="GAMEOVERSE: PILOT" />
+
+O princípio central do Gameoverse é duro: se um herói completa com sucesso seu jogo e derrota seu vilão, seu mundo sofre uma autodestruição catastrófica. Este evento transforma o mundo em uma valiosa fonte de energia conhecida como Float. Por outro lado, se o vilão consegue derrotar o herói, o mundo é salvo desse destino. Isso cria um dilema moral para entidades externas, forçando-as a escolher lados em um conflito cósmico sem fim.
+
+<Callout type="warning" title="O Paradoxo da Vitória">
+No **Gameoverse**, a vitória final de um herói é a destruição final de um mundo. Esta regra contraintuitiva significa que os conceitos tradicionais de bem e mal são invertidos, pois salvar um mundo muitas vezes exige garantir o triunfo do vilão.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Estática e Travas de Segurança: Protegendo Mundos de Jogo">
+Além da condição de vitória central, o Gameoverse emprega mecanismos de defesa sofisticados para manter sua integridade e prevenir interferências externas. Isso inclui o fenômeno "Estática" e as "Travas de Segurança", que desempenham papéis vitais na forma como os agentes interagem com os mundos de jogo.
+
+A **Estática** é uma resposta direta a qualquer tentativa de um personagem de jogo externo ou agente da Farcade de informar um habitante de um mundo de jogo sobre a verdadeira natureza do Gameoverse. Se tal informação for transmitida e compreendida, o mundo e seus personagens nativos congelam imediatamente em um estado petrificado, tornando-se cinzentos. Durante esta fase de "Estática", o mundo de jogo se escaneia em busca de elementos estranhos, ameaçando apagar e deletar os estranhos, convertendo-os em Float. Este mecanismo explica por que agentes da Farcade como Kit não podem simplesmente alertar os heróis sobre a destruição iminente.
+
+<Callout type="tip" title="Entendendo os Gatilhos da Estática">
+A Estática só é ativada se um personagem do jogo puder **entender** a informação sendo transmitida sobre o Gameoverse. Um deslize casual para um animal que não consegue compreender o conceito, por exemplo, pode não acionar a Estática.
+</Callout>
+
+<CardGrid cols={2}>
+  <Card title="Fenômeno Estático">
+    - **Gatilho**: Personagem externo informa um nativo sobre o Gameoverse.
+    - **Efeito**: Mundo de jogo e nativos congelam, tornam-se cinzentos.
+    - **Ameaça**: Estranhos correm o risco de serem deletados e convertidos em Float.
+    - **Propósito**: Previne intervenção direta e revelação da verdade cósmica.
+  </Card>
+  <Card title="Travas de Segurança">
+    - **Gatilho**: Personagem estrangeiro tenta prejudicar um nativo.
+    - **Efeito**: Barreira física impede danos diretos; ataques são bloqueados.
+    - **Fraqueza**: As travas podem ser quebradas se o herói vencer e o mundo colapsar.
+    - **Propósito**: Protege personagens nativos da agressão externa direta.
+  </Card>
+</CardGrid>
+
+As **Travas de Segurança** atuam como uma barreira física, impedindo que personagens de jogo estrangeiros prejudiquem diretamente os habitantes nativos dentro de seus respectivos mundos. Isso é evidente quando as tentativas de Kaboodle de atingir uma gaivota são bloqueadas, ou o tiro acidental de Kit em Flappers em seu estado Estático não causa nenhum dano. Essas travas garantem que os agentes externos devem operar dentro da estrutura narrativa do jogo, pelo menos inicialmente. No entanto, essas travas defensivas podem ser ignoradas ou quebradas uma vez que um herói vence seu jogo, levando à autodestruição do mundo.
+
+</Section>
+
+<Section icon={Swords} title="Farcade vs. Syntax: Agendas Conflitantes">
+O Gameoverse é um campo de batalha para duas facções principais, Farcade e Syntax, cada uma com objetivos vastamente diferentes em relação ao destino dos mundos de jogo. Suas abordagens conflitantes formam a tensão narrativa central da série.
+
+A Farcade, liderada pela misteriosa Dusk, opera com o objetivo explícito de salvar mundos de jogo e seus habitantes. Sua estratégia envolve ajudar o vilão de cada mundo a triunfar sobre seu herói, impedindo assim a conclusão do jogo e a subsequente destruição do mundo. Kit e Kaboodle são exemplos primários de agentes da Farcade, tendo sido resgatados por Dusk depois que seu próprio mundo foi destruído. Eles são impulsionados pelo desejo de evitar que outros sofram a mesma perda.
+
+| Facção | Líder | Objetivo Principal | Método | Membros Chave |
+|---|---|---|---|---|
+| **Farcade** | Dusk | Salvar mundos de jogo | Ajudar vilões a vencer, prevenir a conclusão do jogo | Kit, Kaboodle, Gobbles, Flappers |
+| **Syntax** | Warrick | Colher Float | Ajudar heróis a vencer, causar a destruição do mundo | Warrick, Fold, Miss Information, Crab Girl |
+
+A Syntax, por outro lado, é uma organização dedicada a colher Float. Eles conseguem isso ajudando os heróis a completar seus jogos, sabendo muito bem que isso leva à destruição do mundo do jogo. Warrick, o líder mal-humorado da Syntax, acredita que o Float coletado desses mundos destruídos pode ser usado para "mudar as regras do Gameoverse inteiramente" e "trazer de volta tudo o que perderam". Isso torna a Syntax antagonista, embora suas motivações estejam enraizadas no desejo de desfazer uma perda passada.
+
+<Callout type="info" title="O Recurso Float">
+**Float** é a essência natural de todos os personagens de videogame vivos e o material fundamental de todos os Mundos de Jogo. Tanto a Farcade quanto a Syntax reconhecem seu imenso poder, embora para objetivos opostos.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Navegando Mundos de Jogo: Protocolos de Agente">
+Agentes operando dentro do Gameoverse devem aderir a protocolos específicos para executar suas missões com sucesso, minimizando riscos. Esses protocolos são moldados pelas regras inerentes do Gameoverse e pelos perigos representados pela facção oposta.
+
+<Steps>
+  <Step num="1" title="Identificar Herói e Vilão">
+    Ao entrar em um novo mundo de jogo, a prioridade imediata é identificar o herói e o vilão designados. Isso é crucial para os agentes da Farcade determinarem quem apoiar (o vilão) e para os agentes da Syntax identificarem quem ajudar (o herói). A identificação incorreta pode levar ao fracasso da missão ou à destruição não intencional do mundo.
+  </Step>
+  <Step num="2" title="Evitar Revelação Direta (Risco de Estática)">
+    Os agentes nunca devem informar diretamente os personagens nativos do jogo sobre o Gameoverse ou a verdadeira natureza de seu mundo. Fazer isso aciona a Estática, congelando o mundo e colocando os agentes em risco de exclusão. A sutileza e a influência indireta são fundamentais.
+  </Step>
+  <Step num="3" title="Utilizar Mecânicas de Jogo (Travas de Segurança)">
+    Aproveite as mecânicas de jogo existentes e as Travas de Segurança a seu favor. Embora o dano direto aos nativos seja bloqueado, os agentes ainda podem influenciar eventos, guiar personagens e fornecer vantagens estratégicas ao lado escolhido.
+  </Step>
+  <Step num="4" title="Contar a Facção Oposta">
+    Esteja ciente da presença e dos objetivos da facção oposta. Os agentes da Farcade devem frustrar as tentativas da Syntax de guiar os heróis à vitória, enquanto os agentes da Syntax devem neutralizar os esforços da Farcade para empoderar os vilões. Isso muitas vezes envolve confronto direto fora da narrativa do jogo.
+  </Step>
+  <Step num="5" title="Extrair se o Mundo For Perdido">
+    Se o destino de um mundo de jogo estiver selado (herói vence para a Farcade, vilão vence para a Syntax), os agentes devem priorizar sua própria extração antes que o mundo seja destruído e convertido em Float. Morrer fora do jogo, completo ou não, resulta em exclusão permanente e redução a Float.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Game Over: Exclusão Permanente">
+Se qualquer personagem, nativo ou estrangeiro, morrer fora do contexto de um mundo de jogo (por exemplo, durante viagens intermundos ou após a destruição de um mundo), ele morrerá permanentemente e sua essência será reduzida a Float. Isso enfatiza os altos riscos de operar dentro do Gameoverse.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Personagens Chave e Seus Papéis">
+O Gameoverse é povoado por um elenco diversificado de personagens, cada um desempenhando um papel crucial no conflito em curso e na aplicação ou subversão de suas regras.
+
+<CardGrid cols={3}>
+  <Card title="Kit Bodega (Farcade)">
+    - **Protagonista**: Herói cujo mundo foi apagado.
+    - **Objetivo**: Salvar o máximo de mundos possível.
+    - **Habilidades**: Canhões de braço, piloto habilidoso.
+    - **Personalidade**: Bondoso, assombrado pela perda, determinado.
+  </Card>
+  <Card title="Kaboodle (Farcade)">
+    - **Ajudante de Kit**: Mochila mal-humorada e boca suja.
+    - **Papel**: Companheiro leal, contraponto cínico a Kit.
+    - **Habilidades**: Cibercíclope, fornece suporte tático.
+    - **Perspectiva**: Acredita em "fazer a missão do jeito certo".
+  </Card>
+  <Card title="Gobbles (Farcade)">
+    - **Learnasaurus**: Pequeno T-Rex, herói de seu próprio mundo destruído.
+    - **Habilidade**: Absorve e retém todas as informações que encontra.
+    - **Papel**: Motivador, registro vivo do conhecimento coletado.
+    - **Personalidade**: Inicialmente covarde, mas aprende e se adapta rapidamente.
+  </Card>
+  <Card title="Warrick (Syntax)">
+    - **Líder Antagonista**: Mal-humorado, ameaçador.
+    - **Objetivo**: Colher Float para mudar as regras do Gameoverse.
+    - **Método**: Ajuda heróis a garantir a destruição do mundo.
+    - **Caráter**: Chefe ruim, implacável na busca de seus objetivos.
+  </Card>
+  <Card title="Fold (Syntax)">
+    - **Capanga**: Papel vivo e enganador.
+    - **Papel**: Ajuda heróis tornando-se itens/instruções úteis.
+    - **Caráter**: Bobalhão, propenso a trapalhadas.
+    - **Função**: Age como um manual de instruções do jogo.
+  </Card>
+  <Card title="Miss Information (Syntax)">
+    - **Capanga**: Alegre, adora irritar Fold.
+    - **Papel**: Coleta e explica informações, principal executora.
+    - **Função**: Age como um tutorial de jogo ou fada da exposição.
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Dinâmica de Equipe em Evolução">
+A equipe do Gameoverse, particularmente a Farcade, está em constante crescimento. A tendência de Kit de resgatar sobreviventes de mundos destruídos, mesmo contra as objeções iniciais de Kaboodle, significa que a equipe se expande a cada episódio, criando uma base de perda compartilhada e determinação.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="FAQ: Mergulho Profundo na Mecânica do Gameoverse">
+
+<FAQ items={[
+  {
+    question: "Qual é a regra principal que causa a destruição de um mundo de jogo?",
+    answer: "Um mundo de jogo é destruído se seu herói completa com sucesso seu jogo e derrota seu respectivo vilão. Isso aciona um evento catastrófico que transforma o mundo em Float."
+  },
+  {
+    question: "Como a 'Estática' protege os mundos de jogo da interferência externa?",
+    answer: "A Estática é um mecanismo de defesa que congela um mundo de jogo e seus habitantes se um personagem externo os informa sobre a verdadeira natureza do Gameoverse. Isso impede avisos diretos e coloca os agentes externos em risco de exclusão."
+  },
+  {
+    question: "Qual é a diferença entre os objetivos da Farcade e da Syntax?",
+    answer: "A Farcade visa salvar mundos de jogo ajudando os vilões a vencer e impedindo a conclusão do jogo. A Syntax, por outro lado, busca destruir mundos de jogo ajudando os heróis, colhendo assim Float para alcançar seus próprios objetivos misteriosos."
+  },
+  {
+    question: "Um agente do Gameoverse pode morrer permanentemente?",
+    answer: "Sim, se um personagem morrer fora dos limites de um mundo de jogo, seja o jogo completo ou não, ele morrerá permanentemente e sua essência será reduzida a Float. Esta regra se aplica a personagens nativos e estrangeiros."
+  }
+]} />
+
+</Section>

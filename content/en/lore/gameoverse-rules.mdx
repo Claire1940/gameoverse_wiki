@@ -1,0 +1,186 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Gameoverse Rules: Understanding Core Mechanics & Gameplay",
+  description: "Dive into the fundamental Gameoverse rules governing game worlds, heroes, villains, and the critical Static and Security Lock systems.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/8B5CF6/fff?text=Gameoverse+Rules",
+  date: "2026-05-20",
+  author: " Wiki Team"
+}
+
+<Callout type="info" title="Quick Guide">
+- The **Gameoverse rules** dictate that a hero winning their game causes their world to **explode**, turning into a resource called Float.
+- **Farcade** agents, like Kit, aim to save worlds by helping villains win, preventing heroes from completing their games.
+- **Syntax** agents, conversely, aid heroes to win, thus destroying worlds to harvest Float for their own goals.
+- **Static** is a critical defense mechanism that freezes game worlds if their inhabitants are informed about the Gameoverse's true nature.
+- **Security Locks** prevent external characters from directly harming native game characters within their worlds.
+</Callout>
+
+<Section icon={Map} title="The Core Gameoverse Rules Explained">
+The **Gameoverse** is a complex universe where every game exists as a planet. Understanding its fundamental rules is crucial for anyone navigating its intricate systems, whether you're a Farcade agent trying to save worlds or a Syntax operative seeking to harvest Float. These rules dictate the fate of entire game worlds and their inhabitants.
+
+**Video Highlights:**
+- Introduces the core concept: hero wins, world explodes.
+- Shows Kit's initial encounter with the destructive nature of the Gameoverse.
+- Explains the roles of Farcade (saving worlds) and Syntax (destroying worlds).
+
+<YouTubeEmbed videoId="1jNk5tmjhpc" title="GAMEOVERSE: PILOT" />
+
+The central tenet of the Gameoverse is a harsh one: if a hero successfully completes their game and defeats their villain, their world undergoes a catastrophic self-destruction. This event transforms the world into a valuable energy source known as Float. Conversely, if the villain manages to defeat the hero, the world is saved from this fate. This creates a moral dilemma for external entities, forcing them to choose sides in an endless cosmic conflict.
+
+<Callout type="warning" title="The Paradox of Victory">
+In the **Gameoverse**, a hero's ultimate victory is a world's ultimate demise. This counter-intuitive rule means that traditional concepts of good and evil are flipped, as saving a world often requires ensuring the villain's triumph.
+</Callout>
+
+</Section>
+
+<Section icon={Shield} title="Static and Security Locks: Protecting Game Worlds">
+Beyond the core win condition, the Gameoverse employs sophisticated defense mechanisms to maintain its integrity and prevent external interference. These include the "Static" phenomenon and "Security Locks," which play vital roles in how agents interact with game worlds.
+
+The **Static** is a direct response to any attempt by an outside game character or Farcade agent to inform a game world's inhabitant about the true nature of the Gameoverse. If such information is conveyed and understood, the world and its native characters immediately freeze in a petrified state, turning grey. During this "Static" phase, the game world scans itself for foreign elements, threatening to erase and delete outsiders, converting them into Float. This mechanism explains why Farcade agents like Kit cannot simply warn heroes about the impending destruction.
+
+<Callout type="tip" title="Understanding Static's Triggers">
+Static only activates if a game character can **understand** the information being conveyed about the Gameoverse. A casual slip-up to an animal that cannot comprehend the concept, for instance, may not trigger the Static.
+</Callout>
+
+<CardGrid cols={2}>
+  <Card title="Static Phenomenon">
+    - **Trigger**: Outside character informs a native about the Gameoverse.
+    - **Effect**: Game world and natives freeze, turn grey.
+    - **Threat**: Outsiders risk deletion and conversion to Float.
+    - **Purpose**: Prevents direct intervention and revelation of cosmic truth.
+  </Card>
+  <Card title="Security Locks">
+    - **Trigger**: Foreign character attempts to harm a native.
+    - **Effect**: Physical barrier prevents direct harm; attacks are blocked.
+    - **Weakness**: Locks can be broken if the hero wins and the world collapses.
+    - **Purpose**: Protects native characters from direct external aggression.
+  </Card>
+</CardGrid>
+
+**Security Locks** act as a physical barrier, preventing foreign game characters from directly harming native inhabitants within their respective worlds. This is evident when Kaboodle's attempts to hit a seagull are blocked, or Kit's accidental blast on Flappers in his Static state causes no harm. These locks ensure that external agents must operate within the game's narrative structure, at least initially. However, these defensive locks can be bypassed or broken once a hero wins their game, leading to the world's self-destruction.
+
+</Section>
+
+<Section icon={Swords} title="Farcade vs. Syntax: Conflicting Agendas">
+The Gameoverse is a battleground for two primary factions, Farcade and Syntax, each with vastly different goals regarding the fate of game worlds. Their conflicting approaches form the central narrative tension of the series.
+
+Farcade, led by the mysterious Dusk, operates with the explicit goal of saving game worlds and their inhabitants. Their strategy involves helping each world's villain triumph over its hero, thereby preventing the game's completion and the subsequent destruction of the world. Kit and Kaboodle are prime examples of Farcade agents, having been rescued by Dusk after their own world was destroyed. They are driven by the desire to prevent others from suffering the same loss.
+
+| Faction | Leader | Primary Goal | Method | Key Members |
+|---|---|---|---|---|
+| **Farcade** | Dusk | Save game worlds | Help villains win, prevent game completion | Kit, Kaboodle, Gobbles, Flappers |
+| **Syntax** | Warrick | Harvest Float | Help heroes win, cause world destruction | Warrick, Fold, Miss Information, Crab Girl |
+
+Syntax, on the other hand, is an organization dedicated to harvesting Float. They achieve this by assisting heroes in completing their games, knowing full well that this leads to the destruction of the game world. Warrick, the short-tempered leader of Syntax, believes that the Float collected from these destroyed worlds can be used to "change the rules of the Gameoverse entirely" and "bring back all that they've lost." This makes Syntax antagonists, though their motivations are rooted in a desire to undo a past loss.
+
+<Callout type="info" title="The Resource of Float">
+**Float** is the natural essence of all living video game characters and the fundamental material of all Game Worlds. Both Farcade and Syntax recognize its immense power, albeit for opposing objectives.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Navigating Game Worlds: Agent Protocols">
+Agents operating within the Gameoverse must adhere to specific protocols to successfully execute their missions while minimizing risks. These protocols are shaped by the inherent rules of the Gameoverse and the dangers posed by the opposing faction.
+
+<Steps>
+  <Step num="1" title="Identify Hero and Villain">
+    Upon entering a new game world, the immediate priority is to identify the designated hero and villain. This is crucial for Farcade agents to determine who to support (the villain) and for Syntax agents to identify who to aid (the hero). Incorrect identification can lead to mission failure or unintended world destruction.
+  </Step>
+  <Step num="2" title="Avoid Direct Revelation (Static Risk)">
+    Agents must never directly inform native game characters about the Gameoverse or their world's true nature. Doing so triggers the Static, freezing the world and putting the agents at risk of deletion. Subtlety and indirect influence are key.
+  </Step>
+  <Step num="3" title="Utilize Game Mechanics (Security Locks)">
+    Leverage existing game mechanics and the Security Locks to your advantage. While direct harm to natives is blocked, agents can still influence events, guide characters, and provide strategic advantages to their chosen side.
+  </Step>
+  <Step num="4" title="Counter Opposing Faction">
+    Be aware of the presence and objectives of the opposing faction. Farcade agents must thwart Syntax's attempts to guide heroes to victory, while Syntax agents must neutralize Farcade's efforts to empower villains. This often involves direct confrontation outside the game's narrative.
+  </Step>
+  <Step num="5" title="Extract if World is Lost">
+    If a game world's fate is sealed (hero wins for Farcade, villain wins for Syntax), agents must prioritize their own extraction before the world is destroyed and converted into Float. Dying outside the game, completed or not, results in permanent deletion and reduction to Float.
+  </Step>
+</Steps>
+
+<Callout type="warning" title="Game Over: Permanent Deletion">
+If any character, native or foreign, dies outside the context of a game world (e.g., during inter-world travel or after a world's destruction), they will die permanently and be reduced to Float. This emphasizes the high stakes of operating within the Gameoverse.
+</Callout>
+
+</Section>
+
+<Section icon={Trophy} title="Key Characters and Their Roles">
+The Gameoverse is populated by a diverse cast of characters, each playing a crucial role in the ongoing conflict and the enforcement or subversion of its rules.
+
+<CardGrid cols={3}>
+  <Card title="Kit Bodega (Farcade)">
+    - **Protagonist**: Hero whose world was erased.
+    - **Goal**: Save as many worlds as possible.
+    - **Abilities**: Arm cannons, skilled pilot.
+    - **Personality**: Kind-hearted, haunted by loss, determined.
+  </Card>
+  <Card title="Kaboodle (Farcade)">
+    - **Kit's Sidekick**: Foul-mouthed, grouchy backpack.
+    - **Role**: Loyal companion, cynical counterpoint to Kit.
+    - **Abilities**: Cyber Cyclops, provides tactical support.
+    - **Perspective**: Believes in "doing the mission the right way."
+  </Card>
+  <Card title="Gobbles (Farcade)">
+    - **Learnasaurus**: Small T-Rex, hero of his own destroyed world.
+    - **Ability**: Absorbs and retains all information he encounters.
+    - **Role**: Motivator, living record of collected knowledge.
+    - **Personality**: Initially cowardly, but learns and adapts quickly.
+  </Card>
+  <Card title="Warrick (Syntax)">
+    - **Antagonist Leader**: Short-tempered, menacing.
+    - **Goal**: Harvest Float to change Gameoverse rules.
+    - **Method**: Aids heroes to ensure world destruction.
+    - **Character**: Bad boss, ruthless in pursuit of his objectives.
+  </Card>
+  <Card title="Fold (Syntax)">
+    - **Henchman**: Duplicitous living paper.
+    - **Role**: Aids heroes by becoming helpful items/instructions.
+    - **Character**: Butt-Monkey, prone to slapstick.
+    - **Function**: Acts like a game instruction manual.
+  </Card>
+  <Card title="Miss Information (Syntax)">
+    - **Henchwoman**: Perky, delights in annoying Fold.
+    - **Role**: Gathers and explains information, top enforcer.
+    - **Function**: Acts like a game tutorial or exposition fairy.
+  </Card>
+</CardGrid>
+
+<Callout type="success" title="Evolving Team Dynamics">
+The Gameoverse team, particularly Farcade, is constantly growing. Kit's tendency to rescue survivors from destroyed worlds, even against Kaboodle's initial objections, means the crew expands with each episode, creating a foundation of shared loss and determination.
+</Callout>
+
+</Section>
+
+<Section icon={Sparkles} title="FAQ: Deep Dive into Gameoverse Mechanics">
+
+<FAQ items={[
+  {
+    question: "What is the primary rule that causes a game world to be destroyed?",
+    answer: "A game world is destroyed if its hero successfully completes their game and defeats their respective villain. This triggers a catastrophic event that turns the world into Float."
+  },
+  {
+    question: "How does 'Static' protect game worlds from external interference?",
+    answer: "Static is a defense mechanism that freezes a game world and its inhabitants if an outside character informs them about the true nature of the Gameoverse. This prevents direct warnings and puts external agents at risk of deletion."
+  },
+  {
+    question: "What is the difference between Farcade and Syntax's goals?",
+    answer: "Farcade aims to save game worlds by helping villains win and preventing game completion. Syntax, conversely, seeks to destroy game worlds by aiding heroes, thereby harvesting Float to achieve their own mysterious objectives."
+  },
+  {
+    question: "Can an agent from the Gameoverse die permanently?",
+    answer: "Yes, if a character dies outside the confines of a game world, whether or not the game is completed, they will die permanently and their essence will be reduced to Float. This rule applies to both native and foreign characters."
+  }
+]} />
+
+</Section>
