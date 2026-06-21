@@ -1,0 +1,1976 @@
+{
+  "en": {
+    "cast": [
+      {
+        "slug": "elsie-lovelock-gameoverse",
+        "file": "elsie-lovelock-gameoverse"
+      },
+      {
+        "slug": "erica-lindbeck-gameoverse",
+        "file": "erica-lindbeck-gameoverse"
+      },
+      {
+        "slug": "gameoverse-amalee",
+        "file": "gameoverse-amalee"
+      },
+      {
+        "slug": "gameoverse-arin-hanson",
+        "file": "gameoverse-arin-hanson"
+      },
+      {
+        "slug": "gameoverse-cast",
+        "file": "gameoverse-cast"
+      },
+      {
+        "slug": "gameoverse-chris-sabat",
+        "file": "gameoverse-chris-sabat"
+      },
+      {
+        "slug": "gameoverse-creator",
+        "file": "gameoverse-creator"
+      },
+      {
+        "slug": "gameoverse-director",
+        "file": "gameoverse-director"
+      },
+      {
+        "slug": "gameoverse-elsie-lovelock",
+        "file": "gameoverse-elsie-lovelock"
+      },
+      {
+        "slug": "gameoverse-erica-lindbeck",
+        "file": "gameoverse-erica-lindbeck"
+      },
+      {
+        "slug": "gameoverse-game-grumps",
+        "file": "gameoverse-game-grumps"
+      },
+      {
+        "slug": "gameoverse-japanese-dub",
+        "file": "gameoverse-japanese-dub"
+      },
+      {
+        "slug": "gameoverse-jschlatt",
+        "file": "gameoverse-jschlatt"
+      },
+      {
+        "slug": "gameoverse-michael-kovach",
+        "file": "gameoverse-michael-kovach"
+      },
+      {
+        "slug": "gameoverse-ross-o-donovan",
+        "file": "gameoverse-ross-o-donovan"
+      },
+      {
+        "slug": "gameoverse-rubberross",
+        "file": "gameoverse-rubberross"
+      },
+      {
+        "slug": "gameoverse-voice-actors",
+        "file": "gameoverse-voice-actors"
+      },
+      {
+        "slug": "gameoverse-voice-cast",
+        "file": "gameoverse-voice-cast"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "gameoverse-antagonist",
+        "file": "gameoverse-antagonist"
+      },
+      {
+        "slug": "gameoverse-barney",
+        "file": "gameoverse-barney"
+      },
+      {
+        "slug": "gameoverse-bongo-raptor",
+        "file": "gameoverse-bongo-raptor"
+      },
+      {
+        "slug": "gameoverse-cat",
+        "file": "gameoverse-cat"
+      },
+      {
+        "slug": "gameoverse-character-ages",
+        "file": "gameoverse-character-ages"
+      },
+      {
+        "slug": "gameoverse-character-sheets",
+        "file": "gameoverse-character-sheets"
+      },
+      {
+        "slug": "gameoverse-characters-ages",
+        "file": "gameoverse-characters-ages"
+      },
+      {
+        "slug": "gameoverse-characters",
+        "file": "gameoverse-characters"
+      },
+      {
+        "slug": "gameoverse-crab-girl",
+        "file": "gameoverse-crab-girl"
+      },
+      {
+        "slug": "gameoverse-dinosaur",
+        "file": "gameoverse-dinosaur"
+      },
+      {
+        "slug": "gameoverse-dusk",
+        "file": "gameoverse-dusk"
+      },
+      {
+        "slug": "gameoverse-flappers",
+        "file": "gameoverse-flappers"
+      },
+      {
+        "slug": "gameoverse-gobbles",
+        "file": "gameoverse-gobbles"
+      },
+      {
+        "slug": "gameoverse-heroes",
+        "file": "gameoverse-heroes"
+      },
+      {
+        "slug": "gameoverse-kaboodle",
+        "file": "gameoverse-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-age",
+        "file": "gameoverse-kit-age"
+      },
+      {
+        "slug": "gameoverse-kit-and-kaboodle",
+        "file": "gameoverse-kit-and-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-full-body",
+        "file": "gameoverse-kit-full-body"
+      },
+      {
+        "slug": "gameoverse-kit-voice-actor",
+        "file": "gameoverse-kit-voice-actor"
+      },
+      {
+        "slug": "gameoverse-kit",
+        "file": "gameoverse-kit"
+      },
+      {
+        "slug": "gameoverse-learnosaurus",
+        "file": "gameoverse-learnosaurus"
+      },
+      {
+        "slug": "gameoverse-lulu",
+        "file": "gameoverse-lulu"
+      },
+      {
+        "slug": "gameoverse-main-character",
+        "file": "gameoverse-main-character"
+      },
+      {
+        "slug": "gameoverse-malice",
+        "file": "gameoverse-malice"
+      },
+      {
+        "slug": "gameoverse-mbti",
+        "file": "gameoverse-mbti"
+      },
+      {
+        "slug": "gameoverse-miss-information",
+        "file": "gameoverse-miss-information"
+      },
+      {
+        "slug": "gameoverse-ms-information",
+        "file": "gameoverse-ms-information"
+      },
+      {
+        "slug": "gameoverse-orph",
+        "file": "gameoverse-orph"
+      },
+      {
+        "slug": "gameoverse-paper-guy",
+        "file": "gameoverse-paper-guy"
+      },
+      {
+        "slug": "gameoverse-shark",
+        "file": "gameoverse-shark"
+      },
+      {
+        "slug": "gameoverse-snappers",
+        "file": "gameoverse-snappers"
+      },
+      {
+        "slug": "gameoverse-syntax",
+        "file": "gameoverse-syntax"
+      },
+      {
+        "slug": "gameoverse-villains",
+        "file": "gameoverse-villains"
+      },
+      {
+        "slug": "gameoverse-warrick",
+        "file": "gameoverse-warrick"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "gameoverse-age-rating",
+        "file": "gameoverse-age-rating"
+      },
+      {
+        "slug": "gameoverse-animation",
+        "file": "gameoverse-animation"
+      },
+      {
+        "slug": "gameoverse-for-kids",
+        "file": "gameoverse-for-kids"
+      },
+      {
+        "slug": "gameoverse-framerate",
+        "file": "gameoverse-framerate"
+      },
+      {
+        "slug": "gameoverse-guide",
+        "file": "gameoverse-guide"
+      },
+      {
+        "slug": "gameoverse-netflix",
+        "file": "gameoverse-netflix"
+      },
+      {
+        "slug": "gameoverse-official-website",
+        "file": "gameoverse-official-website"
+      },
+      {
+        "slug": "gameoverse-parents-guide",
+        "file": "gameoverse-parents-guide"
+      },
+      {
+        "slug": "gameoverse-reception",
+        "file": "gameoverse-reception"
+      },
+      {
+        "slug": "gameoverse-streaming",
+        "file": "gameoverse-streaming"
+      },
+      {
+        "slug": "gameoverse-transcript",
+        "file": "gameoverse-transcript"
+      },
+      {
+        "slug": "gameoverse-where-to-watch",
+        "file": "gameoverse-where-to-watch"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "gameoverse-2009",
+        "file": "gameoverse-2009"
+      },
+      {
+        "slug": "gameoverse-ending-explained",
+        "file": "gameoverse-ending-explained"
+      },
+      {
+        "slug": "gameoverse-fold",
+        "file": "gameoverse-fold"
+      },
+      {
+        "slug": "gameoverse-glitch",
+        "file": "gameoverse-glitch"
+      },
+      {
+        "slug": "gameoverse-lore",
+        "file": "gameoverse-lore"
+      },
+      {
+        "slug": "gameoverse-misinformation",
+        "file": "gameoverse-misinformation"
+      },
+      {
+        "slug": "gameoverse-newgrounds",
+        "file": "gameoverse-newgrounds"
+      },
+      {
+        "slug": "gameoverse-original-series",
+        "file": "gameoverse-original-series"
+      },
+      {
+        "slug": "gameoverse-pibby",
+        "file": "gameoverse-pibby"
+      },
+      {
+        "slug": "gameoverse-plot",
+        "file": "gameoverse-plot"
+      },
+      {
+        "slug": "gameoverse-reboot",
+        "file": "gameoverse-reboot"
+      },
+      {
+        "slug": "gameoverse-rules",
+        "file": "gameoverse-rules"
+      },
+      {
+        "slug": "gameoverse-story",
+        "file": "gameoverse-story"
+      },
+      {
+        "slug": "gameoverse-synopsis",
+        "file": "gameoverse-synopsis"
+      },
+      {
+        "slug": "gameoverse-theories",
+        "file": "gameoverse-theories"
+      },
+      {
+        "slug": "gameoverse-tropes",
+        "file": "gameoverse-tropes"
+      },
+      {
+        "slug": "gameoverse-webcomic",
+        "file": "gameoverse-webcomic"
+      }
+    ],
+    "release": [
+      {
+        "slug": "gameoverse-cancelled",
+        "file": "gameoverse-cancelled"
+      },
+      {
+        "slug": "gameoverse-episode-1-release-date",
+        "file": "gameoverse-episode-1-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2-release-date",
+        "file": "gameoverse-episode-2-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2",
+        "file": "gameoverse-episode-2"
+      },
+      {
+        "slug": "gameoverse-episode-5",
+        "file": "gameoverse-episode-5"
+      },
+      {
+        "slug": "gameoverse-episodes",
+        "file": "gameoverse-episodes"
+      },
+      {
+        "slug": "gameoverse-greenlit",
+        "file": "gameoverse-greenlit"
+      },
+      {
+        "slug": "gameoverse-how-many-episodes",
+        "file": "gameoverse-how-many-episodes"
+      },
+      {
+        "slug": "gameoverse-may-2026",
+        "file": "gameoverse-may-2026"
+      },
+      {
+        "slug": "gameoverse-pilot-release-date",
+        "file": "gameoverse-pilot-release-date"
+      },
+      {
+        "slug": "gameoverse-pilot",
+        "file": "gameoverse-pilot"
+      },
+      {
+        "slug": "gameoverse-release-date",
+        "file": "gameoverse-release-date"
+      },
+      {
+        "slug": "gameoverse-show-release-date",
+        "file": "gameoverse-show-release-date"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "gameoverse-animation-test",
+        "file": "gameoverse-animation-test"
+      },
+      {
+        "slug": "gameoverse-final-trailer",
+        "file": "gameoverse-final-trailer"
+      },
+      {
+        "slug": "gameoverse-pilot-trailer",
+        "file": "gameoverse-pilot-trailer"
+      },
+      {
+        "slug": "gameoverse-soundtrack",
+        "file": "gameoverse-soundtrack"
+      },
+      {
+        "slug": "gameoverse-teaser",
+        "file": "gameoverse-teaser"
+      },
+      {
+        "slug": "gameoverse-trailer-breakdown",
+        "file": "gameoverse-trailer-breakdown"
+      },
+      {
+        "slug": "gameoverse-trailer-music",
+        "file": "gameoverse-trailer-music"
+      },
+      {
+        "slug": "gameoverse-trailer-reaction",
+        "file": "gameoverse-trailer-reaction"
+      },
+      {
+        "slug": "gameoverse-trailer-transcript",
+        "file": "gameoverse-trailer-transcript"
+      },
+      {
+        "slug": "gameoverse-trailer",
+        "file": "gameoverse-trailer"
+      }
+    ]
+  },
+  "es": {
+    "cast": [
+      {
+        "slug": "elsie-lovelock-gameoverse",
+        "file": "elsie-lovelock-gameoverse"
+      },
+      {
+        "slug": "erica-lindbeck-gameoverse",
+        "file": "erica-lindbeck-gameoverse"
+      },
+      {
+        "slug": "gameoverse-amalee",
+        "file": "gameoverse-amalee"
+      },
+      {
+        "slug": "gameoverse-arin-hanson",
+        "file": "gameoverse-arin-hanson"
+      },
+      {
+        "slug": "gameoverse-cast",
+        "file": "gameoverse-cast"
+      },
+      {
+        "slug": "gameoverse-chris-sabat",
+        "file": "gameoverse-chris-sabat"
+      },
+      {
+        "slug": "gameoverse-creator",
+        "file": "gameoverse-creator"
+      },
+      {
+        "slug": "gameoverse-director",
+        "file": "gameoverse-director"
+      },
+      {
+        "slug": "gameoverse-elsie-lovelock",
+        "file": "gameoverse-elsie-lovelock"
+      },
+      {
+        "slug": "gameoverse-erica-lindbeck",
+        "file": "gameoverse-erica-lindbeck"
+      },
+      {
+        "slug": "gameoverse-game-grumps",
+        "file": "gameoverse-game-grumps"
+      },
+      {
+        "slug": "gameoverse-japanese-dub",
+        "file": "gameoverse-japanese-dub"
+      },
+      {
+        "slug": "gameoverse-jschlatt",
+        "file": "gameoverse-jschlatt"
+      },
+      {
+        "slug": "gameoverse-michael-kovach",
+        "file": "gameoverse-michael-kovach"
+      },
+      {
+        "slug": "gameoverse-ross-o-donovan",
+        "file": "gameoverse-ross-o-donovan"
+      },
+      {
+        "slug": "gameoverse-rubberross",
+        "file": "gameoverse-rubberross"
+      },
+      {
+        "slug": "gameoverse-voice-actors",
+        "file": "gameoverse-voice-actors"
+      },
+      {
+        "slug": "gameoverse-voice-cast",
+        "file": "gameoverse-voice-cast"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "gameoverse-antagonist",
+        "file": "gameoverse-antagonist"
+      },
+      {
+        "slug": "gameoverse-barney",
+        "file": "gameoverse-barney"
+      },
+      {
+        "slug": "gameoverse-bongo-raptor",
+        "file": "gameoverse-bongo-raptor"
+      },
+      {
+        "slug": "gameoverse-cat",
+        "file": "gameoverse-cat"
+      },
+      {
+        "slug": "gameoverse-character-ages",
+        "file": "gameoverse-character-ages"
+      },
+      {
+        "slug": "gameoverse-character-sheets",
+        "file": "gameoverse-character-sheets"
+      },
+      {
+        "slug": "gameoverse-characters-ages",
+        "file": "gameoverse-characters-ages"
+      },
+      {
+        "slug": "gameoverse-characters",
+        "file": "gameoverse-characters"
+      },
+      {
+        "slug": "gameoverse-crab-girl",
+        "file": "gameoverse-crab-girl"
+      },
+      {
+        "slug": "gameoverse-dinosaur",
+        "file": "gameoverse-dinosaur"
+      },
+      {
+        "slug": "gameoverse-dusk",
+        "file": "gameoverse-dusk"
+      },
+      {
+        "slug": "gameoverse-flappers",
+        "file": "gameoverse-flappers"
+      },
+      {
+        "slug": "gameoverse-gobbles",
+        "file": "gameoverse-gobbles"
+      },
+      {
+        "slug": "gameoverse-heroes",
+        "file": "gameoverse-heroes"
+      },
+      {
+        "slug": "gameoverse-kaboodle",
+        "file": "gameoverse-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-age",
+        "file": "gameoverse-kit-age"
+      },
+      {
+        "slug": "gameoverse-kit-and-kaboodle",
+        "file": "gameoverse-kit-and-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-full-body",
+        "file": "gameoverse-kit-full-body"
+      },
+      {
+        "slug": "gameoverse-kit-voice-actor",
+        "file": "gameoverse-kit-voice-actor"
+      },
+      {
+        "slug": "gameoverse-kit",
+        "file": "gameoverse-kit"
+      },
+      {
+        "slug": "gameoverse-learnosaurus",
+        "file": "gameoverse-learnosaurus"
+      },
+      {
+        "slug": "gameoverse-lulu",
+        "file": "gameoverse-lulu"
+      },
+      {
+        "slug": "gameoverse-main-character",
+        "file": "gameoverse-main-character"
+      },
+      {
+        "slug": "gameoverse-malice",
+        "file": "gameoverse-malice"
+      },
+      {
+        "slug": "gameoverse-mbti",
+        "file": "gameoverse-mbti"
+      },
+      {
+        "slug": "gameoverse-miss-information",
+        "file": "gameoverse-miss-information"
+      },
+      {
+        "slug": "gameoverse-ms-information",
+        "file": "gameoverse-ms-information"
+      },
+      {
+        "slug": "gameoverse-orph",
+        "file": "gameoverse-orph"
+      },
+      {
+        "slug": "gameoverse-paper-guy",
+        "file": "gameoverse-paper-guy"
+      },
+      {
+        "slug": "gameoverse-shark",
+        "file": "gameoverse-shark"
+      },
+      {
+        "slug": "gameoverse-snappers",
+        "file": "gameoverse-snappers"
+      },
+      {
+        "slug": "gameoverse-syntax",
+        "file": "gameoverse-syntax"
+      },
+      {
+        "slug": "gameoverse-villains",
+        "file": "gameoverse-villains"
+      },
+      {
+        "slug": "gameoverse-warrick",
+        "file": "gameoverse-warrick"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "gameoverse-age-rating",
+        "file": "gameoverse-age-rating"
+      },
+      {
+        "slug": "gameoverse-animation",
+        "file": "gameoverse-animation"
+      },
+      {
+        "slug": "gameoverse-for-kids",
+        "file": "gameoverse-for-kids"
+      },
+      {
+        "slug": "gameoverse-framerate",
+        "file": "gameoverse-framerate"
+      },
+      {
+        "slug": "gameoverse-guide",
+        "file": "gameoverse-guide"
+      },
+      {
+        "slug": "gameoverse-netflix",
+        "file": "gameoverse-netflix"
+      },
+      {
+        "slug": "gameoverse-official-website",
+        "file": "gameoverse-official-website"
+      },
+      {
+        "slug": "gameoverse-parents-guide",
+        "file": "gameoverse-parents-guide"
+      },
+      {
+        "slug": "gameoverse-reception",
+        "file": "gameoverse-reception"
+      },
+      {
+        "slug": "gameoverse-streaming",
+        "file": "gameoverse-streaming"
+      },
+      {
+        "slug": "gameoverse-transcript",
+        "file": "gameoverse-transcript"
+      },
+      {
+        "slug": "gameoverse-where-to-watch",
+        "file": "gameoverse-where-to-watch"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "gameoverse-2009",
+        "file": "gameoverse-2009"
+      },
+      {
+        "slug": "gameoverse-ending-explained",
+        "file": "gameoverse-ending-explained"
+      },
+      {
+        "slug": "gameoverse-fold",
+        "file": "gameoverse-fold"
+      },
+      {
+        "slug": "gameoverse-glitch",
+        "file": "gameoverse-glitch"
+      },
+      {
+        "slug": "gameoverse-lore",
+        "file": "gameoverse-lore"
+      },
+      {
+        "slug": "gameoverse-misinformation",
+        "file": "gameoverse-misinformation"
+      },
+      {
+        "slug": "gameoverse-newgrounds",
+        "file": "gameoverse-newgrounds"
+      },
+      {
+        "slug": "gameoverse-original-series",
+        "file": "gameoverse-original-series"
+      },
+      {
+        "slug": "gameoverse-pibby",
+        "file": "gameoverse-pibby"
+      },
+      {
+        "slug": "gameoverse-plot",
+        "file": "gameoverse-plot"
+      },
+      {
+        "slug": "gameoverse-reboot",
+        "file": "gameoverse-reboot"
+      },
+      {
+        "slug": "gameoverse-rules",
+        "file": "gameoverse-rules"
+      },
+      {
+        "slug": "gameoverse-story",
+        "file": "gameoverse-story"
+      },
+      {
+        "slug": "gameoverse-synopsis",
+        "file": "gameoverse-synopsis"
+      },
+      {
+        "slug": "gameoverse-theories",
+        "file": "gameoverse-theories"
+      },
+      {
+        "slug": "gameoverse-tropes",
+        "file": "gameoverse-tropes"
+      },
+      {
+        "slug": "gameoverse-webcomic",
+        "file": "gameoverse-webcomic"
+      }
+    ],
+    "release": [
+      {
+        "slug": "gameoverse-cancelled",
+        "file": "gameoverse-cancelled"
+      },
+      {
+        "slug": "gameoverse-episode-1-release-date",
+        "file": "gameoverse-episode-1-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2-release-date",
+        "file": "gameoverse-episode-2-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2",
+        "file": "gameoverse-episode-2"
+      },
+      {
+        "slug": "gameoverse-episode-5",
+        "file": "gameoverse-episode-5"
+      },
+      {
+        "slug": "gameoverse-episodes",
+        "file": "gameoverse-episodes"
+      },
+      {
+        "slug": "gameoverse-greenlit",
+        "file": "gameoverse-greenlit"
+      },
+      {
+        "slug": "gameoverse-how-many-episodes",
+        "file": "gameoverse-how-many-episodes"
+      },
+      {
+        "slug": "gameoverse-may-2026",
+        "file": "gameoverse-may-2026"
+      },
+      {
+        "slug": "gameoverse-pilot-release-date",
+        "file": "gameoverse-pilot-release-date"
+      },
+      {
+        "slug": "gameoverse-pilot",
+        "file": "gameoverse-pilot"
+      },
+      {
+        "slug": "gameoverse-release-date",
+        "file": "gameoverse-release-date"
+      },
+      {
+        "slug": "gameoverse-show-release-date",
+        "file": "gameoverse-show-release-date"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "gameoverse-animation-test",
+        "file": "gameoverse-animation-test"
+      },
+      {
+        "slug": "gameoverse-final-trailer",
+        "file": "gameoverse-final-trailer"
+      },
+      {
+        "slug": "gameoverse-pilot-trailer",
+        "file": "gameoverse-pilot-trailer"
+      },
+      {
+        "slug": "gameoverse-soundtrack",
+        "file": "gameoverse-soundtrack"
+      },
+      {
+        "slug": "gameoverse-teaser",
+        "file": "gameoverse-teaser"
+      },
+      {
+        "slug": "gameoverse-trailer-breakdown",
+        "file": "gameoverse-trailer-breakdown"
+      },
+      {
+        "slug": "gameoverse-trailer-music",
+        "file": "gameoverse-trailer-music"
+      },
+      {
+        "slug": "gameoverse-trailer-reaction",
+        "file": "gameoverse-trailer-reaction"
+      },
+      {
+        "slug": "gameoverse-trailer-transcript",
+        "file": "gameoverse-trailer-transcript"
+      },
+      {
+        "slug": "gameoverse-trailer",
+        "file": "gameoverse-trailer"
+      }
+    ]
+  },
+  "fr": {
+    "cast": [
+      {
+        "slug": "gameoverse-amalee",
+        "file": "gameoverse-amalee"
+      },
+      {
+        "slug": "gameoverse-cast",
+        "file": "gameoverse-cast"
+      },
+      {
+        "slug": "gameoverse-chris-sabat",
+        "file": "gameoverse-chris-sabat"
+      },
+      {
+        "slug": "gameoverse-creator",
+        "file": "gameoverse-creator"
+      },
+      {
+        "slug": "gameoverse-elsie-lovelock",
+        "file": "gameoverse-elsie-lovelock"
+      },
+      {
+        "slug": "gameoverse-erica-lindbeck",
+        "file": "gameoverse-erica-lindbeck"
+      },
+      {
+        "slug": "gameoverse-jschlatt",
+        "file": "gameoverse-jschlatt"
+      },
+      {
+        "slug": "gameoverse-michael-kovach",
+        "file": "gameoverse-michael-kovach"
+      },
+      {
+        "slug": "gameoverse-ross-o-donovan",
+        "file": "gameoverse-ross-o-donovan"
+      },
+      {
+        "slug": "gameoverse-rubberross",
+        "file": "gameoverse-rubberross"
+      },
+      {
+        "slug": "gameoverse-voice-actors",
+        "file": "gameoverse-voice-actors"
+      },
+      {
+        "slug": "gameoverse-voice-cast",
+        "file": "gameoverse-voice-cast"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "gameoverse-characters",
+        "file": "gameoverse-characters"
+      },
+      {
+        "slug": "gameoverse-dusk",
+        "file": "gameoverse-dusk"
+      },
+      {
+        "slug": "gameoverse-gobbles",
+        "file": "gameoverse-gobbles"
+      },
+      {
+        "slug": "gameoverse-kaboodle",
+        "file": "gameoverse-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-age",
+        "file": "gameoverse-kit-age"
+      },
+      {
+        "slug": "gameoverse-kit-and-kaboodle",
+        "file": "gameoverse-kit-and-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-full-body",
+        "file": "gameoverse-kit-full-body"
+      },
+      {
+        "slug": "gameoverse-kit-voice-actor",
+        "file": "gameoverse-kit-voice-actor"
+      },
+      {
+        "slug": "gameoverse-kit",
+        "file": "gameoverse-kit"
+      },
+      {
+        "slug": "gameoverse-main-character",
+        "file": "gameoverse-main-character"
+      },
+      {
+        "slug": "gameoverse-miss-information",
+        "file": "gameoverse-miss-information"
+      },
+      {
+        "slug": "gameoverse-orph",
+        "file": "gameoverse-orph"
+      },
+      {
+        "slug": "gameoverse-villains",
+        "file": "gameoverse-villains"
+      },
+      {
+        "slug": "gameoverse-warrick",
+        "file": "gameoverse-warrick"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "gameoverse-age-rating",
+        "file": "gameoverse-age-rating"
+      },
+      {
+        "slug": "gameoverse-for-kids",
+        "file": "gameoverse-for-kids"
+      },
+      {
+        "slug": "gameoverse-framerate",
+        "file": "gameoverse-framerate"
+      },
+      {
+        "slug": "gameoverse-guide",
+        "file": "gameoverse-guide"
+      },
+      {
+        "slug": "gameoverse-netflix",
+        "file": "gameoverse-netflix"
+      },
+      {
+        "slug": "gameoverse-official-website",
+        "file": "gameoverse-official-website"
+      },
+      {
+        "slug": "gameoverse-streaming",
+        "file": "gameoverse-streaming"
+      },
+      {
+        "slug": "gameoverse-where-to-watch",
+        "file": "gameoverse-where-to-watch"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "gameoverse-2009",
+        "file": "gameoverse-2009"
+      },
+      {
+        "slug": "gameoverse-ending-explained",
+        "file": "gameoverse-ending-explained"
+      },
+      {
+        "slug": "gameoverse-lore",
+        "file": "gameoverse-lore"
+      },
+      {
+        "slug": "gameoverse-misinformation",
+        "file": "gameoverse-misinformation"
+      },
+      {
+        "slug": "gameoverse-newgrounds",
+        "file": "gameoverse-newgrounds"
+      },
+      {
+        "slug": "gameoverse-original-series",
+        "file": "gameoverse-original-series"
+      },
+      {
+        "slug": "gameoverse-pibby",
+        "file": "gameoverse-pibby"
+      },
+      {
+        "slug": "gameoverse-plot",
+        "file": "gameoverse-plot"
+      },
+      {
+        "slug": "gameoverse-story",
+        "file": "gameoverse-story"
+      },
+      {
+        "slug": "gameoverse-theories",
+        "file": "gameoverse-theories"
+      }
+    ],
+    "release": [
+      {
+        "slug": "gameoverse-cancelled",
+        "file": "gameoverse-cancelled"
+      },
+      {
+        "slug": "gameoverse-episode-1-release-date",
+        "file": "gameoverse-episode-1-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2",
+        "file": "gameoverse-episode-2"
+      },
+      {
+        "slug": "gameoverse-greenlit",
+        "file": "gameoverse-greenlit"
+      },
+      {
+        "slug": "gameoverse-may-2026",
+        "file": "gameoverse-may-2026"
+      },
+      {
+        "slug": "gameoverse-pilot-release-date",
+        "file": "gameoverse-pilot-release-date"
+      },
+      {
+        "slug": "gameoverse-release-date",
+        "file": "gameoverse-release-date"
+      },
+      {
+        "slug": "gameoverse-show-release-date",
+        "file": "gameoverse-show-release-date"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "gameoverse-animation-test",
+        "file": "gameoverse-animation-test"
+      },
+      {
+        "slug": "gameoverse-final-trailer",
+        "file": "gameoverse-final-trailer"
+      },
+      {
+        "slug": "gameoverse-pilot-trailer",
+        "file": "gameoverse-pilot-trailer"
+      },
+      {
+        "slug": "gameoverse-teaser",
+        "file": "gameoverse-teaser"
+      },
+      {
+        "slug": "gameoverse-trailer-breakdown",
+        "file": "gameoverse-trailer-breakdown"
+      },
+      {
+        "slug": "gameoverse-trailer-music",
+        "file": "gameoverse-trailer-music"
+      },
+      {
+        "slug": "gameoverse-trailer-reaction",
+        "file": "gameoverse-trailer-reaction"
+      },
+      {
+        "slug": "gameoverse-trailer",
+        "file": "gameoverse-trailer"
+      }
+    ]
+  },
+  "ja": {
+    "cast": [
+      {
+        "slug": "elsie-lovelock-gameoverse",
+        "file": "elsie-lovelock-gameoverse"
+      },
+      {
+        "slug": "erica-lindbeck-gameoverse",
+        "file": "erica-lindbeck-gameoverse"
+      },
+      {
+        "slug": "gameoverse-amalee",
+        "file": "gameoverse-amalee"
+      },
+      {
+        "slug": "gameoverse-arin-hanson",
+        "file": "gameoverse-arin-hanson"
+      },
+      {
+        "slug": "gameoverse-cast",
+        "file": "gameoverse-cast"
+      },
+      {
+        "slug": "gameoverse-chris-sabat",
+        "file": "gameoverse-chris-sabat"
+      },
+      {
+        "slug": "gameoverse-creator",
+        "file": "gameoverse-creator"
+      },
+      {
+        "slug": "gameoverse-director",
+        "file": "gameoverse-director"
+      },
+      {
+        "slug": "gameoverse-elsie-lovelock",
+        "file": "gameoverse-elsie-lovelock"
+      },
+      {
+        "slug": "gameoverse-erica-lindbeck",
+        "file": "gameoverse-erica-lindbeck"
+      },
+      {
+        "slug": "gameoverse-game-grumps",
+        "file": "gameoverse-game-grumps"
+      },
+      {
+        "slug": "gameoverse-japanese-dub",
+        "file": "gameoverse-japanese-dub"
+      },
+      {
+        "slug": "gameoverse-jschlatt",
+        "file": "gameoverse-jschlatt"
+      },
+      {
+        "slug": "gameoverse-michael-kovach",
+        "file": "gameoverse-michael-kovach"
+      },
+      {
+        "slug": "gameoverse-ross-o-donovan",
+        "file": "gameoverse-ross-o-donovan"
+      },
+      {
+        "slug": "gameoverse-rubberross",
+        "file": "gameoverse-rubberross"
+      },
+      {
+        "slug": "gameoverse-voice-actors",
+        "file": "gameoverse-voice-actors"
+      },
+      {
+        "slug": "gameoverse-voice-cast",
+        "file": "gameoverse-voice-cast"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "gameoverse-antagonist",
+        "file": "gameoverse-antagonist"
+      },
+      {
+        "slug": "gameoverse-barney",
+        "file": "gameoverse-barney"
+      },
+      {
+        "slug": "gameoverse-bongo-raptor",
+        "file": "gameoverse-bongo-raptor"
+      },
+      {
+        "slug": "gameoverse-cat",
+        "file": "gameoverse-cat"
+      },
+      {
+        "slug": "gameoverse-character-ages",
+        "file": "gameoverse-character-ages"
+      },
+      {
+        "slug": "gameoverse-character-sheets",
+        "file": "gameoverse-character-sheets"
+      },
+      {
+        "slug": "gameoverse-characters-ages",
+        "file": "gameoverse-characters-ages"
+      },
+      {
+        "slug": "gameoverse-characters",
+        "file": "gameoverse-characters"
+      },
+      {
+        "slug": "gameoverse-crab-girl",
+        "file": "gameoverse-crab-girl"
+      },
+      {
+        "slug": "gameoverse-dinosaur",
+        "file": "gameoverse-dinosaur"
+      },
+      {
+        "slug": "gameoverse-dusk",
+        "file": "gameoverse-dusk"
+      },
+      {
+        "slug": "gameoverse-flappers",
+        "file": "gameoverse-flappers"
+      },
+      {
+        "slug": "gameoverse-gobbles",
+        "file": "gameoverse-gobbles"
+      },
+      {
+        "slug": "gameoverse-heroes",
+        "file": "gameoverse-heroes"
+      },
+      {
+        "slug": "gameoverse-kaboodle",
+        "file": "gameoverse-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-age",
+        "file": "gameoverse-kit-age"
+      },
+      {
+        "slug": "gameoverse-kit-and-kaboodle",
+        "file": "gameoverse-kit-and-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-full-body",
+        "file": "gameoverse-kit-full-body"
+      },
+      {
+        "slug": "gameoverse-kit-voice-actor",
+        "file": "gameoverse-kit-voice-actor"
+      },
+      {
+        "slug": "gameoverse-kit",
+        "file": "gameoverse-kit"
+      },
+      {
+        "slug": "gameoverse-learnosaurus",
+        "file": "gameoverse-learnosaurus"
+      },
+      {
+        "slug": "gameoverse-lulu",
+        "file": "gameoverse-lulu"
+      },
+      {
+        "slug": "gameoverse-main-character",
+        "file": "gameoverse-main-character"
+      },
+      {
+        "slug": "gameoverse-malice",
+        "file": "gameoverse-malice"
+      },
+      {
+        "slug": "gameoverse-mbti",
+        "file": "gameoverse-mbti"
+      },
+      {
+        "slug": "gameoverse-miss-information",
+        "file": "gameoverse-miss-information"
+      },
+      {
+        "slug": "gameoverse-ms-information",
+        "file": "gameoverse-ms-information"
+      },
+      {
+        "slug": "gameoverse-orph",
+        "file": "gameoverse-orph"
+      },
+      {
+        "slug": "gameoverse-paper-guy",
+        "file": "gameoverse-paper-guy"
+      },
+      {
+        "slug": "gameoverse-shark",
+        "file": "gameoverse-shark"
+      },
+      {
+        "slug": "gameoverse-snappers",
+        "file": "gameoverse-snappers"
+      },
+      {
+        "slug": "gameoverse-syntax",
+        "file": "gameoverse-syntax"
+      },
+      {
+        "slug": "gameoverse-villains",
+        "file": "gameoverse-villains"
+      },
+      {
+        "slug": "gameoverse-warrick",
+        "file": "gameoverse-warrick"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "gameoverse-age-rating",
+        "file": "gameoverse-age-rating"
+      },
+      {
+        "slug": "gameoverse-animation",
+        "file": "gameoverse-animation"
+      },
+      {
+        "slug": "gameoverse-for-kids",
+        "file": "gameoverse-for-kids"
+      },
+      {
+        "slug": "gameoverse-framerate",
+        "file": "gameoverse-framerate"
+      },
+      {
+        "slug": "gameoverse-guide",
+        "file": "gameoverse-guide"
+      },
+      {
+        "slug": "gameoverse-netflix",
+        "file": "gameoverse-netflix"
+      },
+      {
+        "slug": "gameoverse-official-website",
+        "file": "gameoverse-official-website"
+      },
+      {
+        "slug": "gameoverse-parents-guide",
+        "file": "gameoverse-parents-guide"
+      },
+      {
+        "slug": "gameoverse-reception",
+        "file": "gameoverse-reception"
+      },
+      {
+        "slug": "gameoverse-streaming",
+        "file": "gameoverse-streaming"
+      },
+      {
+        "slug": "gameoverse-transcript",
+        "file": "gameoverse-transcript"
+      },
+      {
+        "slug": "gameoverse-where-to-watch",
+        "file": "gameoverse-where-to-watch"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "gameoverse-2009",
+        "file": "gameoverse-2009"
+      },
+      {
+        "slug": "gameoverse-ending-explained",
+        "file": "gameoverse-ending-explained"
+      },
+      {
+        "slug": "gameoverse-fold",
+        "file": "gameoverse-fold"
+      },
+      {
+        "slug": "gameoverse-glitch",
+        "file": "gameoverse-glitch"
+      },
+      {
+        "slug": "gameoverse-lore",
+        "file": "gameoverse-lore"
+      },
+      {
+        "slug": "gameoverse-misinformation",
+        "file": "gameoverse-misinformation"
+      },
+      {
+        "slug": "gameoverse-newgrounds",
+        "file": "gameoverse-newgrounds"
+      },
+      {
+        "slug": "gameoverse-original-series",
+        "file": "gameoverse-original-series"
+      },
+      {
+        "slug": "gameoverse-pibby",
+        "file": "gameoverse-pibby"
+      },
+      {
+        "slug": "gameoverse-plot",
+        "file": "gameoverse-plot"
+      },
+      {
+        "slug": "gameoverse-reboot",
+        "file": "gameoverse-reboot"
+      },
+      {
+        "slug": "gameoverse-rules",
+        "file": "gameoverse-rules"
+      },
+      {
+        "slug": "gameoverse-story",
+        "file": "gameoverse-story"
+      },
+      {
+        "slug": "gameoverse-synopsis",
+        "file": "gameoverse-synopsis"
+      },
+      {
+        "slug": "gameoverse-theories",
+        "file": "gameoverse-theories"
+      },
+      {
+        "slug": "gameoverse-tropes",
+        "file": "gameoverse-tropes"
+      },
+      {
+        "slug": "gameoverse-webcomic",
+        "file": "gameoverse-webcomic"
+      }
+    ],
+    "release": [
+      {
+        "slug": "gameoverse-cancelled",
+        "file": "gameoverse-cancelled"
+      },
+      {
+        "slug": "gameoverse-episode-1-release-date",
+        "file": "gameoverse-episode-1-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2-release-date",
+        "file": "gameoverse-episode-2-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2",
+        "file": "gameoverse-episode-2"
+      },
+      {
+        "slug": "gameoverse-episode-5",
+        "file": "gameoverse-episode-5"
+      },
+      {
+        "slug": "gameoverse-episodes",
+        "file": "gameoverse-episodes"
+      },
+      {
+        "slug": "gameoverse-greenlit",
+        "file": "gameoverse-greenlit"
+      },
+      {
+        "slug": "gameoverse-how-many-episodes",
+        "file": "gameoverse-how-many-episodes"
+      },
+      {
+        "slug": "gameoverse-may-2026",
+        "file": "gameoverse-may-2026"
+      },
+      {
+        "slug": "gameoverse-pilot-release-date",
+        "file": "gameoverse-pilot-release-date"
+      },
+      {
+        "slug": "gameoverse-pilot",
+        "file": "gameoverse-pilot"
+      },
+      {
+        "slug": "gameoverse-release-date",
+        "file": "gameoverse-release-date"
+      },
+      {
+        "slug": "gameoverse-show-release-date",
+        "file": "gameoverse-show-release-date"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "gameoverse-animation-test",
+        "file": "gameoverse-animation-test"
+      },
+      {
+        "slug": "gameoverse-final-trailer",
+        "file": "gameoverse-final-trailer"
+      },
+      {
+        "slug": "gameoverse-pilot-trailer",
+        "file": "gameoverse-pilot-trailer"
+      },
+      {
+        "slug": "gameoverse-soundtrack",
+        "file": "gameoverse-soundtrack"
+      },
+      {
+        "slug": "gameoverse-teaser",
+        "file": "gameoverse-teaser"
+      },
+      {
+        "slug": "gameoverse-trailer-breakdown",
+        "file": "gameoverse-trailer-breakdown"
+      },
+      {
+        "slug": "gameoverse-trailer-music",
+        "file": "gameoverse-trailer-music"
+      },
+      {
+        "slug": "gameoverse-trailer-reaction",
+        "file": "gameoverse-trailer-reaction"
+      },
+      {
+        "slug": "gameoverse-trailer-transcript",
+        "file": "gameoverse-trailer-transcript"
+      },
+      {
+        "slug": "gameoverse-trailer",
+        "file": "gameoverse-trailer"
+      }
+    ]
+  },
+  "pt": {
+    "cast": [
+      {
+        "slug": "elsie-lovelock-gameoverse",
+        "file": "elsie-lovelock-gameoverse"
+      },
+      {
+        "slug": "erica-lindbeck-gameoverse",
+        "file": "erica-lindbeck-gameoverse"
+      },
+      {
+        "slug": "gameoverse-amalee",
+        "file": "gameoverse-amalee"
+      },
+      {
+        "slug": "gameoverse-arin-hanson",
+        "file": "gameoverse-arin-hanson"
+      },
+      {
+        "slug": "gameoverse-cast",
+        "file": "gameoverse-cast"
+      },
+      {
+        "slug": "gameoverse-chris-sabat",
+        "file": "gameoverse-chris-sabat"
+      },
+      {
+        "slug": "gameoverse-creator",
+        "file": "gameoverse-creator"
+      },
+      {
+        "slug": "gameoverse-director",
+        "file": "gameoverse-director"
+      },
+      {
+        "slug": "gameoverse-elsie-lovelock",
+        "file": "gameoverse-elsie-lovelock"
+      },
+      {
+        "slug": "gameoverse-erica-lindbeck",
+        "file": "gameoverse-erica-lindbeck"
+      },
+      {
+        "slug": "gameoverse-game-grumps",
+        "file": "gameoverse-game-grumps"
+      },
+      {
+        "slug": "gameoverse-japanese-dub",
+        "file": "gameoverse-japanese-dub"
+      },
+      {
+        "slug": "gameoverse-jschlatt",
+        "file": "gameoverse-jschlatt"
+      },
+      {
+        "slug": "gameoverse-michael-kovach",
+        "file": "gameoverse-michael-kovach"
+      },
+      {
+        "slug": "gameoverse-ross-o-donovan",
+        "file": "gameoverse-ross-o-donovan"
+      },
+      {
+        "slug": "gameoverse-rubberross",
+        "file": "gameoverse-rubberross"
+      },
+      {
+        "slug": "gameoverse-voice-actors",
+        "file": "gameoverse-voice-actors"
+      },
+      {
+        "slug": "gameoverse-voice-cast",
+        "file": "gameoverse-voice-cast"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "gameoverse-antagonist",
+        "file": "gameoverse-antagonist"
+      },
+      {
+        "slug": "gameoverse-barney",
+        "file": "gameoverse-barney"
+      },
+      {
+        "slug": "gameoverse-bongo-raptor",
+        "file": "gameoverse-bongo-raptor"
+      },
+      {
+        "slug": "gameoverse-cat",
+        "file": "gameoverse-cat"
+      },
+      {
+        "slug": "gameoverse-character-ages",
+        "file": "gameoverse-character-ages"
+      },
+      {
+        "slug": "gameoverse-character-sheets",
+        "file": "gameoverse-character-sheets"
+      },
+      {
+        "slug": "gameoverse-characters-ages",
+        "file": "gameoverse-characters-ages"
+      },
+      {
+        "slug": "gameoverse-characters",
+        "file": "gameoverse-characters"
+      },
+      {
+        "slug": "gameoverse-crab-girl",
+        "file": "gameoverse-crab-girl"
+      },
+      {
+        "slug": "gameoverse-dinosaur",
+        "file": "gameoverse-dinosaur"
+      },
+      {
+        "slug": "gameoverse-dusk",
+        "file": "gameoverse-dusk"
+      },
+      {
+        "slug": "gameoverse-flappers",
+        "file": "gameoverse-flappers"
+      },
+      {
+        "slug": "gameoverse-gobbles",
+        "file": "gameoverse-gobbles"
+      },
+      {
+        "slug": "gameoverse-heroes",
+        "file": "gameoverse-heroes"
+      },
+      {
+        "slug": "gameoverse-kaboodle",
+        "file": "gameoverse-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-age",
+        "file": "gameoverse-kit-age"
+      },
+      {
+        "slug": "gameoverse-kit-and-kaboodle",
+        "file": "gameoverse-kit-and-kaboodle"
+      },
+      {
+        "slug": "gameoverse-kit-full-body",
+        "file": "gameoverse-kit-full-body"
+      },
+      {
+        "slug": "gameoverse-kit-voice-actor",
+        "file": "gameoverse-kit-voice-actor"
+      },
+      {
+        "slug": "gameoverse-kit",
+        "file": "gameoverse-kit"
+      },
+      {
+        "slug": "gameoverse-learnosaurus",
+        "file": "gameoverse-learnosaurus"
+      },
+      {
+        "slug": "gameoverse-lulu",
+        "file": "gameoverse-lulu"
+      },
+      {
+        "slug": "gameoverse-main-character",
+        "file": "gameoverse-main-character"
+      },
+      {
+        "slug": "gameoverse-malice",
+        "file": "gameoverse-malice"
+      },
+      {
+        "slug": "gameoverse-mbti",
+        "file": "gameoverse-mbti"
+      },
+      {
+        "slug": "gameoverse-miss-information",
+        "file": "gameoverse-miss-information"
+      },
+      {
+        "slug": "gameoverse-ms-information",
+        "file": "gameoverse-ms-information"
+      },
+      {
+        "slug": "gameoverse-orph",
+        "file": "gameoverse-orph"
+      },
+      {
+        "slug": "gameoverse-paper-guy",
+        "file": "gameoverse-paper-guy"
+      },
+      {
+        "slug": "gameoverse-shark",
+        "file": "gameoverse-shark"
+      },
+      {
+        "slug": "gameoverse-snappers",
+        "file": "gameoverse-snappers"
+      },
+      {
+        "slug": "gameoverse-syntax",
+        "file": "gameoverse-syntax"
+      },
+      {
+        "slug": "gameoverse-villains",
+        "file": "gameoverse-villains"
+      },
+      {
+        "slug": "gameoverse-warrick",
+        "file": "gameoverse-warrick"
+      }
+    ],
+    "guide": [
+      {
+        "slug": "gameoverse-age-rating",
+        "file": "gameoverse-age-rating"
+      },
+      {
+        "slug": "gameoverse-animation",
+        "file": "gameoverse-animation"
+      },
+      {
+        "slug": "gameoverse-for-kids",
+        "file": "gameoverse-for-kids"
+      },
+      {
+        "slug": "gameoverse-framerate",
+        "file": "gameoverse-framerate"
+      },
+      {
+        "slug": "gameoverse-guide",
+        "file": "gameoverse-guide"
+      },
+      {
+        "slug": "gameoverse-netflix",
+        "file": "gameoverse-netflix"
+      },
+      {
+        "slug": "gameoverse-official-website",
+        "file": "gameoverse-official-website"
+      },
+      {
+        "slug": "gameoverse-parents-guide",
+        "file": "gameoverse-parents-guide"
+      },
+      {
+        "slug": "gameoverse-reception",
+        "file": "gameoverse-reception"
+      },
+      {
+        "slug": "gameoverse-streaming",
+        "file": "gameoverse-streaming"
+      },
+      {
+        "slug": "gameoverse-transcript",
+        "file": "gameoverse-transcript"
+      },
+      {
+        "slug": "gameoverse-where-to-watch",
+        "file": "gameoverse-where-to-watch"
+      }
+    ],
+    "lore": [
+      {
+        "slug": "gameoverse-2009",
+        "file": "gameoverse-2009"
+      },
+      {
+        "slug": "gameoverse-ending-explained",
+        "file": "gameoverse-ending-explained"
+      },
+      {
+        "slug": "gameoverse-fold",
+        "file": "gameoverse-fold"
+      },
+      {
+        "slug": "gameoverse-glitch",
+        "file": "gameoverse-glitch"
+      },
+      {
+        "slug": "gameoverse-lore",
+        "file": "gameoverse-lore"
+      },
+      {
+        "slug": "gameoverse-misinformation",
+        "file": "gameoverse-misinformation"
+      },
+      {
+        "slug": "gameoverse-newgrounds",
+        "file": "gameoverse-newgrounds"
+      },
+      {
+        "slug": "gameoverse-original-series",
+        "file": "gameoverse-original-series"
+      },
+      {
+        "slug": "gameoverse-pibby",
+        "file": "gameoverse-pibby"
+      },
+      {
+        "slug": "gameoverse-plot",
+        "file": "gameoverse-plot"
+      },
+      {
+        "slug": "gameoverse-reboot",
+        "file": "gameoverse-reboot"
+      },
+      {
+        "slug": "gameoverse-rules",
+        "file": "gameoverse-rules"
+      },
+      {
+        "slug": "gameoverse-story",
+        "file": "gameoverse-story"
+      },
+      {
+        "slug": "gameoverse-synopsis",
+        "file": "gameoverse-synopsis"
+      },
+      {
+        "slug": "gameoverse-theories",
+        "file": "gameoverse-theories"
+      },
+      {
+        "slug": "gameoverse-tropes",
+        "file": "gameoverse-tropes"
+      },
+      {
+        "slug": "gameoverse-webcomic",
+        "file": "gameoverse-webcomic"
+      }
+    ],
+    "release": [
+      {
+        "slug": "gameoverse-cancelled",
+        "file": "gameoverse-cancelled"
+      },
+      {
+        "slug": "gameoverse-episode-1-release-date",
+        "file": "gameoverse-episode-1-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2-release-date",
+        "file": "gameoverse-episode-2-release-date"
+      },
+      {
+        "slug": "gameoverse-episode-2",
+        "file": "gameoverse-episode-2"
+      },
+      {
+        "slug": "gameoverse-episode-5",
+        "file": "gameoverse-episode-5"
+      },
+      {
+        "slug": "gameoverse-episodes",
+        "file": "gameoverse-episodes"
+      },
+      {
+        "slug": "gameoverse-greenlit",
+        "file": "gameoverse-greenlit"
+      },
+      {
+        "slug": "gameoverse-how-many-episodes",
+        "file": "gameoverse-how-many-episodes"
+      },
+      {
+        "slug": "gameoverse-may-2026",
+        "file": "gameoverse-may-2026"
+      },
+      {
+        "slug": "gameoverse-pilot-release-date",
+        "file": "gameoverse-pilot-release-date"
+      },
+      {
+        "slug": "gameoverse-pilot",
+        "file": "gameoverse-pilot"
+      },
+      {
+        "slug": "gameoverse-release-date",
+        "file": "gameoverse-release-date"
+      },
+      {
+        "slug": "gameoverse-show-release-date",
+        "file": "gameoverse-show-release-date"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "gameoverse-animation-test",
+        "file": "gameoverse-animation-test"
+      },
+      {
+        "slug": "gameoverse-final-trailer",
+        "file": "gameoverse-final-trailer"
+      },
+      {
+        "slug": "gameoverse-pilot-trailer",
+        "file": "gameoverse-pilot-trailer"
+      },
+      {
+        "slug": "gameoverse-soundtrack",
+        "file": "gameoverse-soundtrack"
+      },
+      {
+        "slug": "gameoverse-teaser",
+        "file": "gameoverse-teaser"
+      },
+      {
+        "slug": "gameoverse-trailer-breakdown",
+        "file": "gameoverse-trailer-breakdown"
+      },
+      {
+        "slug": "gameoverse-trailer-music",
+        "file": "gameoverse-trailer-music"
+      },
+      {
+        "slug": "gameoverse-trailer-reaction",
+        "file": "gameoverse-trailer-reaction"
+      },
+      {
+        "slug": "gameoverse-trailer-transcript",
+        "file": "gameoverse-trailer-transcript"
+      },
+      {
+        "slug": "gameoverse-trailer",
+        "file": "gameoverse-trailer"
+      }
+    ]
+  }
+}
